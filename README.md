@@ -18,7 +18,7 @@ Every design decision — the schema, the anomalies, the KPIs — mirrors real p
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    SOURCE SYSTEMS                        │
+│                    SOURCE SYSTEMS                       │
 │  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐  │
 │  │   ERP DB     │  │   CRM DB     │  │  CSV Files   │  │
 │  │ (erp_db)     │  │ (crm_db)     │  │  (Dealers,   │  │
@@ -33,7 +33,7 @@ Every design decision — the schema, the anomalies, the KPIs — mirrors real p
 │              └────────────┬───────────┘                 │
 │                           ▼                             │
 │         ┌─────────────────────────────────┐             │
-│         │     aoem_warehouse (PostgreSQL)  │             │
+│         │     aoem_warehouse (PostgreSQL)  │            │
 │         │         Star Schema             │             │
 │         │  fact_sales · fact_warranty     │             │
 │         │  dim_dealer · dim_product       │             │

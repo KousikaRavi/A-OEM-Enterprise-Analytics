@@ -1,0 +1,799 @@
+dealer_id,dealer_name,dealer_type,parent_dealer_id,geo_id,city,state,pincode,email,phone,status,established_date
+MDL0001,Andhra Pradesh Regional Motors,Main,,STATE-001,Andhra Pradesh,Andhra Pradesh,HQ,regional.andhrapradesh@dealerhub.in,9548817264,Active,2013-06-21
+MDL0002,Arunachal Pradesh Regional Motors,Main,,STATE-002,Arunachal Pradesh,Arunachal Pradesh,HQ,regional.arunachalpradesh@oemmotors.in,9781825997,Active,2004-04-23
+MDL0003,Assam Regional Motors,Main,,STATE-003,Assam,Assam,HQ,regional.assam@oemmotors.in,9331943637,Active,2015-10-12
+MDL0004,Bihar Regional Motors,Main,,STATE-004,Bihar,Bihar,HQ,regional.bihar@oemmotors.in,9967426949,Active,2019-08-09
+MDL0005,Chhattisgarh Regional Motors,Main,,STATE-005,Chhattisgarh,Chhattisgarh,HQ,regional.chhattisgarh@industrialfleet.in,9297118916,Active,2009-04-30
+MDL0006,Goa Regional Motors,Main,,STATE-006,Goa,Goa,HQ,regional.goa@industrialfleet.in,9353463589,Active,2015-09-07
+MDL0007,Gujarat Regional Motors,Main,,STATE-007,Gujarat,Gujarat,HQ,regional.gujarat@dealerhub.in,9115162683,Active,2006-04-28
+MDL0008,Haryana Regional Motors,Main,,STATE-008,Haryana,Haryana,HQ,regional.haryana@industrialfleet.in,9559766715,Active,1999-07-22
+MDL0009,Himachal Pradesh Regional Motors,Main,,STATE-009,Himachal Pradesh,Himachal Pradesh,HQ,regional.himachalpradesh@dealerhub.in,9952283666,Active,2014-11-07
+MDL0010,Jharkhand Regional Motors,Main,,STATE-010,Jharkhand,Jharkhand,HQ,regional.jharkhand@dealerhub.in,9349854300,Active,2013-07-25
+MDL0011,Karnataka Regional Motors,Main,,STATE-011,Karnataka,Karnataka,HQ,regional.karnataka@dealerhub.in,9569070465,Active,2014-07-27
+MDL0012,Kerala Regional Motors,Main,,STATE-012,Kerala,Kerala,HQ,regional.kerala@oemmotors.in,9761306950,Active,2007-11-29
+MDL0013,Madhya Pradesh Regional Motors,Main,,STATE-013,Madhya Pradesh,Madhya Pradesh,HQ,regional.madhyapradesh@dealerhub.in,9453185197,Active,2010-02-11
+MDL0014,Maharashtra Regional Motors,Main,,STATE-014,Maharashtra,Maharashtra,HQ,regional.maharashtra@oemmotors.in,9845085997,Active,2000-08-06
+MDL0015,Manipur Regional Motors,Main,,STATE-015,Manipur,Manipur,HQ,regional.manipur@industrialfleet.in,9495616569,Active,1998-07-10
+MDL0016,Meghalaya Regional Motors,Main,,STATE-016,Meghalaya,Meghalaya,HQ,regional.meghalaya@dealerhub.in,9895666072,Active,2016-05-03
+MDL0017,Mizoram Regional Motors,Main,,STATE-017,Mizoram,Mizoram,HQ,regional.mizoram@dealerhub.in,9234085764,Active,2016-02-20
+MDL0018,Nagaland Regional Motors,Main,,STATE-018,Nagaland,Nagaland,HQ,regional.nagaland@dealerhub.in,9586542051,Active,2001-08-12
+MDL0019,Odisha Regional Motors,Main,,STATE-019,Odisha,Odisha,HQ,regional.odisha@industrialfleet.in,9882175901,Active,2005-09-10
+MDL0020,Punjab Regional Motors,Main,,STATE-020,Punjab,Punjab,HQ,regional.punjab@oemmotors.in,9620446573,Active,2001-05-22
+MDL0021,Rajasthan Regional Motors,Main,,STATE-021,Rajasthan,Rajasthan,HQ,regional.rajasthan@dealerhub.in,9814154389,Active,1998-11-01
+MDL0022,Sikkim Regional Motors,Main,,STATE-022,Sikkim,Sikkim,HQ,regional.sikkim@oemmotors.in,9980623329,Active,2003-04-09
+MDL0023,Tamil Nadu Regional Motors,Main,,STATE-023,Tamil Nadu,Tamil Nadu,HQ,regional.tamilnadu@dealerhub.in,9937797098,Active,2002-06-05
+MDL0024,Telangana Regional Motors,Main,,STATE-024,Telangana,Telangana,HQ,regional.telangana@dealerhub.in,9823481178,Active,2019-09-24
+MDL0025,Tripura Regional Motors,Main,,STATE-025,Tripura,Tripura,HQ,regional.tripura@industrialfleet.in,9910452220,Active,2019-04-17
+MDL0026,Uttar Pradesh Regional Motors,Main,,STATE-026,Uttar Pradesh,Uttar Pradesh,HQ,regional.uttarpradesh@industrialfleet.in,9883571018,Active,1999-08-05
+MDL0027,Uttarakhand Regional Motors,Main,,STATE-027,Uttarakhand,Uttarakhand,HQ,regional.uttarakhand@dealerhub.in,9701427477,Active,2008-09-07
+MDL0028,West Bengal Regional Motors,Main,,STATE-028,West Bengal,West Bengal,HQ,regional.westbengal@industrialfleet.in,9988003907,Active,2006-09-14
+MDL0029,Andaman and Nicobar Regional Motors,Main,,STATE-029,Andaman and Nicobar,Andaman and Nicobar,HQ,regional.andamanandnicobar@dealerhub.in,9466394138,Active,2018-09-15
+MDL0030,Chandigarh Regional Motors,Main,,STATE-030,Chandigarh,Chandigarh,HQ,regional.chandigarh@dealerhub.in,9675335616,Active,2007-03-10
+MDL0031,Dadra and Nagar Haveli and Daman and Diu Regional Motors,Main,,STATE-031,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli and Daman and Diu,HQ,regional.dadraandnagarhavelianddamananddiu@oemmotors.in,9492152570,Active,2019-05-30
+MDL0032,Jammu and Kashmir Regional Motors,Main,,STATE-032,Jammu and Kashmir,Jammu and Kashmir,HQ,regional.jammuandkashmir@oemmotors.in,9638416129,Active,2006-08-27
+MDL0033,Ladakh Regional Motors,Main,,STATE-033,Ladakh,Ladakh,HQ,regional.ladakh@oemmotors.in,9620176873,Active,2006-09-02
+MDL0034,Lakshadweep Regional Motors,Main,,STATE-034,Lakshadweep,Lakshadweep,HQ,regional.lakshadweep@oemmotors.in,9128814572,Active,2016-09-16
+MDL0035,National Capital Territory of Delhi Regional Motors,Main,,STATE-035,National Capital Territory of Delhi,National Capital Territory of Delhi,HQ,regional.nationalcapitalterritoryofdelhi@dealerhub.in,9270664529,Active,2014-02-08
+MDL0036,Puducherry Regional Motors,Main,,STATE-036,Puducherry,Puducherry,HQ,regional.puducherry@industrialfleet.in,9632587508,Active,1998-01-24
+BRN00001,Alluri Sitharama Raju District Motors,Branch,MDL0001,1,Paderu,Andhra Pradesh,531024.0,allurisitharamaraju@oemmotors.in,8175287164,Active,2017-10-26
+BRN00002,Anakapalli District Motors,Branch,MDL0001,2,Anakapalli,Andhra Pradesh,531001.0,anakapalli@industrialfleet.in,8442138332,Active,2009-01-20
+BRN00003,Ananthapuramu District Motors,Branch,MDL0001,3,Ananthapuramu,Andhra Pradesh,515001.0,ananthapuramu@industrialfleet.in,8282634729,Active,2023-09-13
+BRN00004,Annamayya District Motors,Branch,MDL0001,4,Rayachoti,Andhra Pradesh,516269.0,annamayya@oemmotors.in,8472173325,Active,2010-07-07
+BRN00005,Bapatla District Motors,Branch,MDL0001,5,Bapatla,Andhra Pradesh,522101.0,bapatla@dealerhub.in,8281132098,Active,2023-04-02
+BRN00006,Chittoor District Motors,Branch,MDL0001,6,Chittoor,Andhra Pradesh,517001.0,chittoor@dealerhub.in,8934317354,Inactive,2013-05-29
+BRN00007,Dr. B.R. Ambedkar Konaseema District Motors,Branch,MDL0001,7,Amalapuram,Andhra Pradesh,533201.0,dr.b.r.ambedkarkonaseema@dealerhub.in,8833743404,Active,2020-02-28
+BRN00008,East Godavari District Motors,Branch,MDL0001,8,Rajamahendravaram,Andhra Pradesh,533101.0,eastgodavari@industrialfleet.in,8806500900,Active,2014-02-17
+BRN00009,Eluru District Motors,Branch,MDL0001,9,Eluru,Andhra Pradesh,534001.0,eluru@dealerhub.in,8896566943,Active,2012-10-10
+BRN00010,Guntur District Motors,Branch,MDL0001,10,Guntur,Andhra Pradesh,522001.0,guntur@oemmotors.in,8643457147,Inactive,2019-12-17
+BRN00011,Kakinada District Motors,Branch,MDL0001,11,Kakinada,Andhra Pradesh,533001.0,kakinada@dealerhub.in,8364003058,Active,2017-08-08
+BRN00012,Krishna District Motors,Branch,MDL0001,12,Machilipatnam,Andhra Pradesh,521001.0,krishna@dealerhub.in,8571623213,Inactive,2022-05-11
+BRN00013,Kurnool District Motors,Branch,MDL0001,13,Kurnool,Andhra Pradesh,518001.0,kurnool@industrialfleet.in,8618802978,Active,2023-10-10
+BRN00014,Nandyal District Motors,Branch,MDL0001,14,Nandyal,Andhra Pradesh,518502.0,nandyal@oemmotors.in,8156021001,Active,2019-10-08
+BRN00015,NTR District Motors,Branch,MDL0001,15,Vijayawada,Andhra Pradesh,520001.0,ntr@oemmotors.in,8137324839,Inactive,2010-07-30
+BRN00016,Palnadu District Motors,Branch,MDL0001,16,Narasaraopet,Andhra Pradesh,522601.0,palnadu@dealerhub.in,8523618294,Active,2012-08-01
+BRN00017,Parvathipuram Manyam District Motors,Branch,MDL0001,17,Parvathipuram,Andhra Pradesh,535501.0,parvathipurammanyam@industrialfleet.in,8256889416,Active,2021-09-23
+BRN00018,Prakasam District Motors,Branch,MDL0001,18,Ongole,Andhra Pradesh,523001.0,prakasam@industrialfleet.in,8614293552,Active,2010-08-29
+BRN00019,Srikakulam District Motors,Branch,MDL0001,19,Srikakulam,Andhra Pradesh,532001.0,srikakulam@dealerhub.in,8798200976,Inactive,2005-08-20
+BRN00020,Sri Potti Sriramulu Nellore District Motors,Branch,MDL0001,20,Nellore,Andhra Pradesh,524001.0,sripottisriramulunellore@dealerhub.in,8492693990,Active,2013-04-09
+BRN00021,Sri Sathya Sai District Motors,Branch,MDL0001,21,Puttaparthi,Andhra Pradesh,515134.0,srisathyasai@industrialfleet.in,8929748303,Inactive,2015-11-13
+BRN00022,Tirupati District Motors,Branch,MDL0001,22,Tirupati,Andhra Pradesh,517501.0,tirupati@industrialfleet.in,8612012856,Active,2008-02-12
+BRN00023,Visakhapatnam District Motors,Branch,MDL0001,23,Visakhapatnam,Andhra Pradesh,530001.0,visakhapatnam@industrialfleet.in,8731803080,Active,2008-02-16
+BRN00024,Vizianagaram District Motors,Branch,MDL0001,24,Vizianagaram,Andhra Pradesh,535001.0,vizianagaram@industrialfleet.in,8110988195,Inactive,2020-05-15
+BRN00025,West Godavari District Motors,Branch,MDL0001,25,Bhimavaram,Andhra Pradesh,534201.0,westgodavari@dealerhub.in,8868463742,Active,2010-12-07
+BRN00026,YSR District Motors,Branch,MDL0001,26,Kadapa,Andhra Pradesh,516001.0,ysr@industrialfleet.in,8450222006,Active,2024-02-07
+BRN00027,Anjaw District Motors,Branch,MDL0002,27,Hawai,Arunachal Pradesh,nan,anjaw@industrialfleet.in,8552152341,Active,2020-04-28
+BRN00028,Changlang District Motors,Branch,MDL0002,28,Changlang,Arunachal Pradesh,nan,changlang@oemmotors.in,8907063730,Active,2007-12-30
+BRN00029,East Kameng District Motors,Branch,MDL0002,29,Seppa,Arunachal Pradesh,nan,eastkameng@dealerhub.in,8201832737,Inactive,2007-02-09
+BRN00030,East Siang District Motors,Branch,MDL0002,30,Pasighat,Arunachal Pradesh,nan,eastsiang@dealerhub.in,8127183925,Inactive,2022-08-20
+BRN00031,Itanagar capital complex District Motors,Branch,MDL0002,31,Itanagar,Arunachal Pradesh,791111.0,itanagarcapitalcomplex@dealerhub.in,8177190890,Active,2019-09-13
+BRN00032,Kamle District Motors,Branch,MDL0002,32,Raga,Arunachal Pradesh,nan,kamle@oemmotors.in,8235858450,Active,2017-01-30
+BRN00033,Kra Daadi District Motors,Branch,MDL0002,33,Palin,Arunachal Pradesh,nan,kradaadi@oemmotors.in,8525503794,Inactive,2009-12-05
+BRN00034,Kurung Kumey District Motors,Branch,MDL0002,34,Koloriang,Arunachal Pradesh,nan,kurungkumey@industrialfleet.in,8278327525,Active,2009-02-15
+BRN00035,Lepa Rada District Motors,Branch,MDL0002,35,Basar,Arunachal Pradesh,nan,leparada@oemmotors.in,8316488814,Active,2018-07-19
+BRN00036,Lohit District Motors,Branch,MDL0002,36,Tezu,Arunachal Pradesh,nan,lohit@industrialfleet.in,8642110471,Active,2022-09-26
+BRN00037,Longding District Motors,Branch,MDL0002,37,Longding,Arunachal Pradesh,nan,longding@dealerhub.in,8516233908,Inactive,2006-06-05
+BRN00038,Lower Dibang Valley District Motors,Branch,MDL0002,38,Roing,Arunachal Pradesh,nan,lowerdibangvalley@oemmotors.in,8920252952,Active,2024-03-01
+BRN00039,Lower Siang District Motors,Branch,MDL0002,39,Likabali,Arunachal Pradesh,nan,lowersiang@industrialfleet.in,8350522611,Active,2020-08-17
+BRN00040,Lower Subansiri District Motors,Branch,MDL0002,40,Ziro,Arunachal Pradesh,nan,lowersubansiri@industrialfleet.in,8436743989,Active,2010-06-28
+BRN00041,Namsai District Motors,Branch,MDL0002,41,Namsai,Arunachal Pradesh,nan,namsai@oemmotors.in,8267689993,Active,2021-04-15
+BRN00042,Pakke-Kessang District Motors,Branch,MDL0002,42,Lemmi,Arunachal Pradesh,nan,pakke-kessang@oemmotors.in,8977893684,Inactive,2017-11-07
+BRN00043,Papum Pare District Motors,Branch,MDL0002,43,Yupia,Arunachal Pradesh,nan,papumpare@dealerhub.in,8685638348,Active,2016-05-26
+BRN00044,Shi Yomi District Motors,Branch,MDL0002,44,Tato,Arunachal Pradesh,nan,shiyomi@industrialfleet.in,8888741342,Active,2016-08-05
+BRN00045,Siang District Motors,Branch,MDL0002,45,Boleng,Arunachal Pradesh,nan,siang@oemmotors.in,8413123068,Active,2006-06-07
+BRN00046,Tawang District Motors,Branch,MDL0002,46,Tawang,Arunachal Pradesh,nan,tawang@industrialfleet.in,8974764925,Active,2009-07-08
+BRN00047,Tirap District Motors,Branch,MDL0002,47,Khonsa,Arunachal Pradesh,nan,tirap@oemmotors.in,8170131358,Active,2019-10-05
+BRN00048,Upper Dibang Valley District Motors,Branch,MDL0002,48,Anini,Arunachal Pradesh,nan,upperdibangvalley@oemmotors.in,8215541254,Active,2019-08-14
+BRN00049,Upper Siang District Motors,Branch,MDL0002,49,Yingkiong,Arunachal Pradesh,nan,uppersiang@dealerhub.in,8772749810,Inactive,2016-04-30
+BRN00050,Upper Subansiri District Motors,Branch,MDL0002,50,Daporijo,Arunachal Pradesh,nan,uppersubansiri@industrialfleet.in,8121237758,Inactive,2015-07-25
+BRN00051,West Kameng District Motors,Branch,MDL0002,51,Bomdila,Arunachal Pradesh,nan,westkameng@industrialfleet.in,8650837021,Inactive,2014-01-03
+BRN00052,West Siang District Motors,Branch,MDL0002,52,Aalo,Arunachal Pradesh,nan,westsiang@dealerhub.in,8342113676,Active,2006-02-04
+BRN00053,Baksa District Motors,Branch,MDL0003,53,Mushalpur,Assam,781372.0,baksa@industrialfleet.in,8565913638,Active,2010-07-17
+BRN00054,Barpeta District Motors,Branch,MDL0003,54,Barpeta,Assam,781301.0,barpeta@oemmotors.in,8856106687,Inactive,2021-03-27
+BRN00055,Bongaigaon District Motors,Branch,MDL0003,55,Bongaigaon,Assam,783380.0,bongaigaon@oemmotors.in,8589617835,Active,2013-12-13
+BRN00056,Cachar District Motors,Branch,MDL0003,56,Silchar,Assam,788001.0,cachar@oemmotors.in,8451649239,Inactive,2010-02-10
+BRN00057,Charaideo District Motors,Branch,MDL0003,57,Sonari,Assam,nan,charaideo@industrialfleet.in,8802586382,Active,2005-11-03
+BRN00058,Chirang District Motors,Branch,MDL0003,58,Kajalgaon,Assam,nan,chirang@oemmotors.in,8285593786,Inactive,2013-05-14
+BRN00059,Darrang District Motors,Branch,MDL0003,59,Mangaldoi,Assam,784125.0,darrang@industrialfleet.in,8749174604,Active,2022-06-26
+BRN00060,Dhemaji District Motors,Branch,MDL0003,60,Dhemaji,Assam,787057.0,dhemaji@oemmotors.in,8773029576,Active,2010-07-03
+BRN00061,Dhubri District Motors,Branch,MDL0003,61,Dhubri,Assam,783301.0,dhubri@oemmotors.in,8635452974,Inactive,2011-11-12
+BRN00062,Dibrugarh District Motors,Branch,MDL0003,62,Dibrugarh,Assam,786001.0,dibrugarh@industrialfleet.in,8510007760,Active,2008-08-19
+BRN00063,Dima Hasao District Motors,Branch,MDL0003,63,Haflong,Assam,788819.0,dimahasao@oemmotors.in,8316934731,Active,2013-10-10
+BRN00064,Goalpara District Motors,Branch,MDL0003,64,Goalpara,Assam,783101.0,goalpara@industrialfleet.in,8256145180,Active,2017-05-30
+BRN00065,Golaghat District Motors,Branch,MDL0003,65,Golaghat,Assam,785621.0,golaghat@dealerhub.in,8185380470,Active,2018-11-27
+BRN00066,Hailakandi District Motors,Branch,MDL0003,66,Hailakandi,Assam,788151.0,hailakandi@oemmotors.in,8897098141,Inactive,2007-06-06
+BRN00067,Jorhat District Motors,Branch,MDL0003,67,Jorhat,Assam,785001.0,jorhat@dealerhub.in,8855860977,Inactive,2009-08-14
+BRN00068,Kamrup District Motors,Branch,MDL0003,68,Amingaon,Assam,781031.0,kamrup@industrialfleet.in,8460018913,Active,2019-05-23
+BRN00069,Kamrup Metropolitan District Motors,Branch,MDL0003,69,Guwahati,Assam,781001.0,kamrupmetropolitan@industrialfleet.in,8831895849,Active,2010-11-08
+BRN00070,Karbi Anglong District Motors,Branch,MDL0003,70,Diphu,Assam,782460.0,karbianglong@dealerhub.in,8130699121,Active,2016-07-18
+BRN00071,Karimganj District Motors,Branch,MDL0003,71,Karimganj,Assam,788711.0,karimganj@oemmotors.in,8264719876,Active,2010-05-07
+BRN00072,Kokrajhar District Motors,Branch,MDL0003,72,Kokrajhar,Assam,783370.0,kokrajhar@industrialfleet.in,8838911213,Active,2021-01-24
+BRN00073,Lakhimpur District Motors,Branch,MDL0003,73,North Lakhimpur,Assam,787001.0,lakhimpur@oemmotors.in,8268753180,Inactive,2015-06-23
+BRN00074,Majuli District Motors,Branch,MDL0003,74,Garamur,Assam,785105.0,majuli@oemmotors.in,8569097399,Inactive,2018-11-04
+BRN00075,Morigaon District Motors,Branch,MDL0003,75,Marigaon,Assam,782105.0,morigaon@industrialfleet.in,8401321408,Active,2019-12-23
+BRN00076,Nagaon District Motors,Branch,MDL0003,76,Nagaon,Assam,782001.0,nagaon@oemmotors.in,8767557046,Active,2007-03-22
+BRN00077,Nalbari District Motors,Branch,MDL0003,77,Nalbari,Assam,781335.0,nalbari@dealerhub.in,8331057816,Active,2012-11-12
+BRN00078,Sivasagar District Motors,Branch,MDL0003,78,Sibsagar,Assam,785640.0,sivasagar@industrialfleet.in,8856557417,Active,2005-06-05
+BRN00079,Sonitpur District Motors,Branch,MDL0003,79,Tezpur,Assam,784001.0,sonitpur@dealerhub.in,8638161588,Active,2013-12-06
+BRN00080,South Salmara Mankachar District Motors,Branch,MDL0003,80,Hatsingimari,Assam,783135.0,southsalmaramankachar@industrialfleet.in,8573773580,Inactive,2010-05-22
+BRN00081,Tinsukia District Motors,Branch,MDL0003,81,Tinsukia,Assam,786125.0,tinsukia@dealerhub.in,8684549967,Active,2007-02-14
+BRN00082,Udalguri District Motors,Branch,MDL0003,82,Udalguri,Assam,nan,udalguri@oemmotors.in,8304335997,Inactive,2013-04-24
+BRN00083,West Karbi Anglong District Motors,Branch,MDL0003,83,Hamren,Assam,782462.0,westkarbianglong@dealerhub.in,8497331920,Active,2008-01-11
+BRN00084,Araria District Motors,Branch,MDL0004,84,Araria,Bihar,854311.0,araria@industrialfleet.in,8950096574,Inactive,2016-11-15
+BRN00085,Arwal District Motors,Branch,MDL0004,85,Arwal,Bihar,804421.0,arwal@dealerhub.in,8431403945,Active,2014-05-11
+BRN00086,Aurangabad District Motors,Branch,MDL0004,86,Aurangabad,Bihar,431001.0,aurangabad@oemmotors.in,8692596600,Active,2010-01-19
+BRN00087,Banka District Motors,Branch,MDL0004,87,Banka,Bihar,813102.0,banka@industrialfleet.in,8961542283,Inactive,2022-10-04
+BRN00088,Begusarai District Motors,Branch,MDL0004,88,Begusarai,Bihar,851101.0,begusarai@dealerhub.in,8807288177,Active,2006-10-21
+BRN00089,Bhagalpur District Motors,Branch,MDL0004,89,Bhagalpur,Bihar,812001.0,bhagalpur@oemmotors.in,8994122567,Active,2008-05-31
+BRN00090,Bhojpur District Motors,Branch,MDL0004,90,Arrah,Bihar,802301.0,bhojpur@dealerhub.in,8634031775,Inactive,2015-07-27
+BRN00091,Buxar District Motors,Branch,MDL0004,91,Buxar,Bihar,802101.0,buxar@industrialfleet.in,8959114899,Active,2008-06-04
+BRN00092,Darbhanga District Motors,Branch,MDL0004,92,Darbhanga,Bihar,846001.0,darbhanga@oemmotors.in,8264788341,Active,2011-06-18
+BRN00093,East Champaran District Motors,Branch,MDL0004,93,Motihari,Bihar,845401.0,eastchamparan@oemmotors.in,8787165230,Active,2023-02-06
+BRN00094,Gaya District Motors,Branch,MDL0004,94,Gaya,Bihar,823001.0,gaya@dealerhub.in,8817453538,Active,2009-03-07
+BRN00095,Gopalganj District Motors,Branch,MDL0004,95,Gopalganj,Bihar,841428.0,gopalganj@industrialfleet.in,8205390784,Active,2013-01-29
+BRN00096,Jamui District Motors,Branch,MDL0004,96,Jamui,Bihar,811307.0,jamui@oemmotors.in,8478355617,Active,2008-08-20
+BRN00097,Jehanabad District Motors,Branch,MDL0004,97,Jehanabad,Bihar,804408.0,jehanabad@dealerhub.in,8728439237,Inactive,2011-03-05
+BRN00098,Kaimur District Motors,Branch,MDL0004,98,Bhabua,Bihar,821101.0,kaimur@industrialfleet.in,8947488814,Inactive,2008-07-19
+BRN00099,Katihar District Motors,Branch,MDL0004,99,Katihar,Bihar,854105.0,katihar@dealerhub.in,8211786155,Active,2013-01-16
+BRN00100,Khagaria District Motors,Branch,MDL0004,100,Khagaria,Bihar,851204.0,khagaria@industrialfleet.in,8368904257,Inactive,2009-06-18
+BRN00101,Kishanganj District Motors,Branch,MDL0004,101,Kishanganj,Bihar,855107.0,kishanganj@industrialfleet.in,8307806260,Inactive,2006-10-04
+BRN00102,Lakhisarai District Motors,Branch,MDL0004,102,Lakhisarai,Bihar,811311.0,lakhisarai@oemmotors.in,8988280619,Active,2009-10-17
+BRN00103,Madhepura District Motors,Branch,MDL0004,103,Madhepura,Bihar,852113.0,madhepura@industrialfleet.in,8143462709,Active,2018-08-10
+BRN00104,Madhubani District Motors,Branch,MDL0004,104,Madhubani,Bihar,847211.0,madhubani@industrialfleet.in,8779682879,Active,2005-06-22
+BRN00105,Munger District Motors,Branch,MDL0004,105,Munger,Bihar,811201.0,munger@industrialfleet.in,8495667891,Inactive,2015-09-25
+BRN00106,Muzaffarpur District Motors,Branch,MDL0004,106,Muzaffarpur,Bihar,842001.0,muzaffarpur@dealerhub.in,8574043585,Active,2011-04-10
+BRN00107,Nalanda District Motors,Branch,MDL0004,107,Bihar Sharif,Bihar,803101.0,nalanda@industrialfleet.in,8159765149,Active,2020-04-10
+BRN00108,Nawada District Motors,Branch,MDL0004,108,Nawada,Bihar,805110.0,nawada@industrialfleet.in,8761408198,Active,2011-12-19
+BRN00109,Patna District Motors,Branch,MDL0004,109,Patna,Bihar,800001.0,patna@oemmotors.in,8325646226,Inactive,2020-08-17
+BRN00110,Purnia District Motors,Branch,MDL0004,110,Purnia,Bihar,854301.0,purnia@oemmotors.in,8112074564,Active,2008-11-21
+BRN00111,Rohtas District Motors,Branch,MDL0004,111,Sasaram,Bihar,821115.0,rohtas@industrialfleet.in,8384719165,Active,2021-12-13
+BRN00112,Saharsa District Motors,Branch,MDL0004,112,Saharsa,Bihar,852201.0,saharsa@oemmotors.in,8794560523,Active,2009-02-02
+BRN00113,Samastipur District Motors,Branch,MDL0004,113,Samastipur,Bihar,848101.0,samastipur@industrialfleet.in,8637413093,Inactive,2009-08-22
+BRN00114,Saran District Motors,Branch,MDL0004,114,Chhapra,Bihar,841301.0,saran@dealerhub.in,8652613872,Active,2022-05-25
+BRN00115,Sheikhpura District Motors,Branch,MDL0004,115,Sheikhpura,Bihar,811105.0,sheikhpura@oemmotors.in,8894527996,Active,2006-11-10
+BRN00116,Sheohar District Motors,Branch,MDL0004,116,Sheohar,Bihar,843329.0,sheohar@dealerhub.in,8535481910,Active,2012-11-22
+BRN00117,Sitamarhi District Motors,Branch,MDL0004,117,Sitamarhi,Bihar,843302.0,sitamarhi@industrialfleet.in,8821412797,Active,2017-11-07
+BRN00118,Siwan District Motors,Branch,MDL0004,118,Siwan,Bihar,841226.0,siwan@dealerhub.in,8128989763,Inactive,2018-01-07
+BRN00119,Supaul District Motors,Branch,MDL0004,119,Supaul,Bihar,852131.0,supaul@dealerhub.in,8814510329,Active,2021-08-21
+BRN00120,Vaishali District Motors,Branch,MDL0004,120,Hajipur,Bihar,844101.0,vaishali@dealerhub.in,8328359259,Active,2016-07-12
+BRN00121,West Champaran District Motors,Branch,MDL0004,121,Bettiah,Bihar,845438.0,westchamparan@oemmotors.in,8231906374,Active,2010-05-21
+BRN00122,Balod District Motors,Branch,MDL0005,122,Balod,Chhattisgarh,nan,balod@industrialfleet.in,8555545065,Inactive,2022-04-17
+BRN00123,Baloda Bazar District Motors,Branch,MDL0005,123,Baloda Bazar,Chhattisgarh,nan,balodabazar@oemmotors.in,8906788229,Active,2019-08-07
+BRN00124,Balrampur-Ramanujganj District Motors,Branch,MDL0005,124,Balrampur,Chhattisgarh,271201.0,balrampur-ramanujganj@dealerhub.in,8371604801,Active,2014-08-25
+BRN00125,Bastar District Motors,Branch,MDL0005,125,Jagdalpur,Chhattisgarh,nan,bastar@oemmotors.in,8338652229,Inactive,2015-09-15
+BRN00126,Bemetara District Motors,Branch,MDL0005,126,Bemetara,Chhattisgarh,nan,bemetara@oemmotors.in,8143491488,Inactive,2009-08-14
+BRN00127,Bijapur District Motors,Branch,MDL0005,127,Bijapur,Chhattisgarh,nan,bijapur@dealerhub.in,8947369796,Active,2018-02-26
+BRN00128,Bilaspur District Motors,Branch,MDL0005,128,Bilaspur,Chhattisgarh,nan,bilaspur@oemmotors.in,8961948745,Active,2021-07-09
+BRN00129,Dantewada District Motors,Branch,MDL0005,129,Dantewada,Chhattisgarh,nan,dantewada@dealerhub.in,8884727680,Active,2008-07-22
+BRN00130,Dhamtari District Motors,Branch,MDL0005,130,Dhamtari,Chhattisgarh,nan,dhamtari@oemmotors.in,8252788488,Inactive,2005-09-26
+BRN00131,Durg District Motors,Branch,MDL0005,131,Durg,Chhattisgarh,nan,durg@dealerhub.in,8934904252,Active,2017-12-06
+BRN00132,Gariaband District Motors,Branch,MDL0005,132,Gariaband,Chhattisgarh,nan,gariaband@oemmotors.in,8311450847,Inactive,2010-02-05
+BRN00133,Gaurela-Pendra-Marwahi District Motors,Branch,MDL0005,133,Gaurela,Chhattisgarh,nan,gaurela-pendra-marwahi@industrialfleet.in,8694139774,Inactive,2020-02-03
+BRN00134,Janjgir-Champa District Motors,Branch,MDL0005,134,Janjgir,Chhattisgarh,nan,janjgir-champa@dealerhub.in,8129085409,Active,2023-07-15
+BRN00135,Jashpur District Motors,Branch,MDL0005,135,Jashpur Nagar,Chhattisgarh,nan,jashpur@dealerhub.in,8636692996,Active,2015-05-09
+BRN00136,Kabirdham District Motors,Branch,MDL0005,136,Kawardha,Chhattisgarh,nan,kabirdham@oemmotors.in,8518170779,Inactive,2018-06-04
+BRN00137,Kanker District Motors,Branch,MDL0005,137,Kanker,Chhattisgarh,nan,kanker@industrialfleet.in,8844140171,Active,2010-10-03
+BRN00138,Khairagarh-Chhuikhadan-Gandai District Motors,Branch,MDL0005,138,Khairagarh,Chhattisgarh,nan,khairagarh-chhuikhadan-gandai@dealerhub.in,8502562079,Active,2021-06-21
+BRN00139,Kondagaon District Motors,Branch,MDL0005,139,Kondagaon,Chhattisgarh,nan,kondagaon@oemmotors.in,8951390643,Active,2009-06-17
+BRN00140,Korba District Motors,Branch,MDL0005,140,Korba,Chhattisgarh,nan,korba@industrialfleet.in,8457764289,Active,2021-09-25
+BRN00141,Korea District Motors,Branch,MDL0005,141,Baikunthpur,Chhattisgarh,nan,korea@oemmotors.in,8367051490,Active,2008-04-12
+BRN00142,Mahasamund District Motors,Branch,MDL0005,142,Mahasamund,Chhattisgarh,nan,mahasamund@oemmotors.in,8211906631,Active,2019-06-28
+BRN00143,Manendragarh-Chirmiri-Bharatpur District Motors,Branch,MDL0005,143,Manendragarh,Chhattisgarh,nan,manendragarh-chirmiri-bharatpur@dealerhub.in,8651860502,Active,2008-01-02
+BRN00144,Mohla-Manpur-Ambagarh Chowki District Motors,Branch,MDL0005,144,Mohla,Chhattisgarh,nan,mohla-manpur-ambagarhchowki@oemmotors.in,8928051594,Inactive,2009-11-20
+BRN00145,Mungeli District Motors,Branch,MDL0005,145,Mungeli,Chhattisgarh,nan,mungeli@dealerhub.in,8837024950,Active,2019-07-25
+BRN00146,Narayanpur District Motors,Branch,MDL0005,146,Narayanpur,Chhattisgarh,nan,narayanpur@industrialfleet.in,8495337579,Active,2009-05-03
+BRN00147,Raigarh District Motors,Branch,MDL0005,147,Raigarh,Chhattisgarh,nan,raigarh@dealerhub.in,8404649546,Active,2010-11-20
+BRN00148,Raipur District Motors,Branch,MDL0005,148,Raipur,Chhattisgarh,nan,raipur@industrialfleet.in,8985727163,Inactive,2006-05-11
+BRN00149,Rajnandgaon District Motors,Branch,MDL0005,149,Rajnandgaon,Chhattisgarh,nan,rajnandgaon@dealerhub.in,8911914118,Active,2021-04-04
+BRN00150,Sarangarh-Bilaigarh District Motors,Branch,MDL0005,150,Sarangarh,Chhattisgarh,nan,sarangarh-bilaigarh@dealerhub.in,8738498351,Inactive,2015-12-12
+BRN00151,Shakti District Motors,Branch,MDL0005,151,Sakti,Chhattisgarh,nan,shakti@industrialfleet.in,8677165230,Active,2014-09-14
+BRN00152,Sukma District Motors,Branch,MDL0005,152,Sukma,Chhattisgarh,nan,sukma@industrialfleet.in,8122867792,Active,2008-03-14
+BRN00153,Surajpur District Motors,Branch,MDL0005,153,Surajpur,Chhattisgarh,nan,surajpur@oemmotors.in,8531456544,Inactive,2019-04-06
+BRN00154,Surguja District Motors,Branch,MDL0005,154,Ambikapur,Chhattisgarh,nan,surguja@industrialfleet.in,8590611402,Active,2014-11-07
+BRN00155,North Goa District Motors,Branch,MDL0006,155,Panaji,Goa,403001.0,northgoa@dealerhub.in,8121342267,Inactive,2023-12-03
+BRN00156,South Goa District Motors,Branch,MDL0006,156,Margao,Goa,403601.0,southgoa@dealerhub.in,8931815744,Active,2012-09-26
+BRN00157,Ahmedabad District Motors,Branch,MDL0007,157,Ahmedabad,Gujarat,380001.0,ahmedabad@oemmotors.in,8265779859,Active,2005-04-21
+BRN00158,Amreli District Motors,Branch,MDL0007,158,Amreli,Gujarat,365601.0,amreli@oemmotors.in,8451047570,Active,2011-09-18
+BRN00159,Anand District Motors,Branch,MDL0007,159,Anand,Gujarat,388001.0,anand@dealerhub.in,8151676898,Inactive,2009-03-10
+BRN00160,Aravalli District Motors,Branch,MDL0007,160,Modasa,Gujarat,383315.0,aravalli@dealerhub.in,8262864029,Active,2019-01-01
+BRN00161,Banaskantha District Motors,Branch,MDL0007,161,Palanpur,Gujarat,385001.0,banaskantha@dealerhub.in,8264400425,Active,2017-05-10
+BRN00162,Bharuch District Motors,Branch,MDL0007,162,Bharuch,Gujarat,392001.0,bharuch@dealerhub.in,8278997383,Active,2019-02-05
+BRN00163,Bhavnagar District Motors,Branch,MDL0007,163,Bhavnagar,Gujarat,364001.0,bhavnagar@oemmotors.in,8231303401,Active,2009-07-23
+BRN00164,Botad District Motors,Branch,MDL0007,164,Botad,Gujarat,364710.0,botad@industrialfleet.in,8851233545,Active,2017-01-31
+BRN00165,Chhota Udaipur District Motors,Branch,MDL0007,165,Chhota Udaipur,Gujarat,391165.0,chhotaudaipur@dealerhub.in,8191254308,Active,2009-12-04
+BRN00166,Dahod District Motors,Branch,MDL0007,166,Dahod,Gujarat,389151.0,dahod@industrialfleet.in,8709912566,Active,2010-06-28
+BRN00167,Dang District Motors,Branch,MDL0007,167,Ahwa,Gujarat,394710.0,dang@dealerhub.in,8563686887,Active,2013-12-19
+BRN00168,Devbhumi Dwarka District Motors,Branch,MDL0007,168,Khambhalia,Gujarat,361305.0,devbhumidwarka@oemmotors.in,8441600767,Active,2022-08-09
+BRN00169,Gandhinagar District Motors,Branch,MDL0007,169,Gandhinagar,Gujarat,382001.0,gandhinagar@oemmotors.in,8136849221,Inactive,2006-01-16
+BRN00170,Gir Somnath District Motors,Branch,MDL0007,170,Veraval,Gujarat,362265.0,girsomnath@oemmotors.in,8928186735,Inactive,2009-02-01
+BRN00171,Jamnagar District Motors,Branch,MDL0007,171,Jamnagar,Gujarat,361001.0,jamnagar@dealerhub.in,8787802020,Active,2022-06-22
+BRN00172,Junagadh District Motors,Branch,MDL0007,172,Junagadh,Gujarat,362001.0,junagadh@oemmotors.in,8933465033,Inactive,2021-02-21
+BRN00173,Kheda District Motors,Branch,MDL0007,173,Nadiad,Gujarat,nan,kheda@oemmotors.in,8669761320,Active,2011-06-27
+BRN00174,Kutch District Motors,Branch,MDL0007,174,Bhuj,Gujarat,370001.0,kutch@oemmotors.in,8498449017,Inactive,2019-09-18
+BRN00175,Mahisagar District Motors,Branch,MDL0007,175,Lunavada,Gujarat,388230.0,mahisagar@oemmotors.in,8518021795,Active,2006-03-14
+BRN00176,Mehsana District Motors,Branch,MDL0007,176,Mehsana,Gujarat,384001.0,mehsana@dealerhub.in,8408441669,Active,2015-12-02
+BRN00177,Morbi District Motors,Branch,MDL0007,177,Morbi,Gujarat,363641.0,morbi@oemmotors.in,8981123256,Active,2021-11-25
+BRN00178,Narmada District Motors,Branch,MDL0007,178,Rajpipla,Gujarat,393145.0,narmada@industrialfleet.in,8260386402,Active,2011-12-02
+BRN00179,Navsari District Motors,Branch,MDL0007,179,Navsari,Gujarat,396445.0,navsari@oemmotors.in,8220389189,Active,2019-11-06
+BRN00180,Panchmahal District Motors,Branch,MDL0007,180,Godhra,Gujarat,389001.0,panchmahal@industrialfleet.in,8575219393,Active,2006-02-06
+BRN00181,Patan District Motors,Branch,MDL0007,181,Patan,Gujarat,384265.0,patan@oemmotors.in,8900735876,Inactive,2016-07-01
+BRN00182,Porbandar District Motors,Branch,MDL0007,182,Porbandar,Gujarat,360575.0,porbandar@industrialfleet.in,8214146980,Inactive,2009-11-21
+BRN00183,Rajkot District Motors,Branch,MDL0007,183,Rajkot,Gujarat,360001.0,rajkot@industrialfleet.in,8490655650,Active,2006-01-18
+BRN00184,Sabarkantha District Motors,Branch,MDL0007,184,Himatnagar,Gujarat,383001.0,sabarkantha@oemmotors.in,8772323878,Active,2018-08-23
+BRN00185,Surat District Motors,Branch,MDL0007,185,Surat,Gujarat,395001.0,surat@oemmotors.in,8566954303,Active,2022-04-13
+BRN00186,Surendranagar District Motors,Branch,MDL0007,186,Surendranagar,Gujarat,363001.0,surendranagar@dealerhub.in,8556893246,Active,2008-08-26
+BRN00187,Tapi District Motors,Branch,MDL0007,187,Vyara,Gujarat,394650.0,tapi@dealerhub.in,8333710611,Active,2008-09-16
+BRN00188,Vadodara District Motors,Branch,MDL0007,188,Vadodara,Gujarat,390001.0,vadodara@oemmotors.in,8114107425,Active,2024-01-26
+BRN00189,Valsad District Motors,Branch,MDL0007,189,Valsad,Gujarat,396001.0,valsad@industrialfleet.in,8583441355,Active,2021-07-08
+BRN00190,Ambala District Motors,Branch,MDL0008,190,Ambala,Haryana,134003.0,ambala@oemmotors.in,8667414712,Inactive,2009-04-04
+BRN00191,Bhiwani District Motors,Branch,MDL0008,191,Bhiwani,Haryana,127021.0,bhiwani@oemmotors.in,8852852243,Active,2020-07-06
+BRN00192,Charkhi Dadri District Motors,Branch,MDL0008,192,Charkhi Dadri,Haryana,127306.0,charkhidadri@oemmotors.in,8615523954,Active,2012-05-15
+BRN00193,Faridabad District Motors,Branch,MDL0008,193,Faridabad,Haryana,121001.0,faridabad@oemmotors.in,8799961599,Active,2011-06-16
+BRN00194,Fatehabad District Motors,Branch,MDL0008,194,Fatehabad,Haryana,125050.0,fatehabad@industrialfleet.in,8905340531,Active,2006-04-24
+BRN00195,Gurugram District Motors,Branch,MDL0008,195,Gurugram,Haryana,122001.0,gurugram@dealerhub.in,8872079343,Active,2012-05-08
+BRN00196,Hisar District Motors,Branch,MDL0008,196,Hisar,Haryana,125001.0,hisar@industrialfleet.in,8507822132,Active,2021-03-08
+BRN00197,Jhajjar District Motors,Branch,MDL0008,197,Jhajjar,Haryana,124103.0,jhajjar@oemmotors.in,8129834891,Active,2010-12-28
+BRN00198,Jind District Motors,Branch,MDL0008,198,Jind,Haryana,126102.0,jind@dealerhub.in,8952773608,Active,2022-09-19
+BRN00199,Kaithal District Motors,Branch,MDL0008,199,Kaithal,Haryana,136027.0,kaithal@dealerhub.in,8126203015,Active,2023-06-21
+BRN00200,Karnal District Motors,Branch,MDL0008,200,Karnal,Haryana,132001.0,karnal@oemmotors.in,8303740115,Inactive,2019-08-08
+BRN00201,Kurukshetra District Motors,Branch,MDL0008,201,Kurukshetra,Haryana,136118.0,kurukshetra@industrialfleet.in,8814939677,Active,2008-09-28
+BRN00202,Mahendragarh District Motors,Branch,MDL0008,202,Narnaul,Haryana,123001.0,mahendragarh@industrialfleet.in,8562328677,Inactive,2019-11-23
+BRN00203,Nuh District Motors,Branch,MDL0008,203,Nuh,Haryana,122107.0,nuh@oemmotors.in,8926759416,Active,2016-08-24
+BRN00204,Palwal District Motors,Branch,MDL0008,204,Palwal,Haryana,121102.0,palwal@oemmotors.in,8151970505,Active,2020-12-29
+BRN00205,Panchkula District Motors,Branch,MDL0008,205,Panchkula,Haryana,134109.0,panchkula@dealerhub.in,8909992399,Active,2008-09-21
+BRN00206,Panipat District Motors,Branch,MDL0008,206,Panipat,Haryana,132001.0,panipat@oemmotors.in,8219159038,Inactive,2006-02-02
+BRN00207,Rewari District Motors,Branch,MDL0008,207,Rewari,Haryana,123401.0,rewari@dealerhub.in,8783645425,Active,2007-07-01
+BRN00208,Rohtak District Motors,Branch,MDL0008,208,Rohtak,Haryana,124001.0,rohtak@dealerhub.in,8647989989,Active,2019-08-23
+BRN00209,Sirsa District Motors,Branch,MDL0008,209,Sirsa,Haryana,125055.0,sirsa@oemmotors.in,8864427415,Active,2014-04-10
+BRN00210,Sonipat District Motors,Branch,MDL0008,210,Sonipat,Haryana,131001.0,sonipat@oemmotors.in,8882255476,Active,2011-04-07
+BRN00211,Yamunanagar District Motors,Branch,MDL0008,211,Yamunanagar,Haryana,135001.0,yamunanagar@oemmotors.in,8105935766,Inactive,2023-09-23
+BRN00212,Bilaspur District Motors,Branch,MDL0009,212,Bilaspur,Himachal Pradesh,nan,bilaspur@oemmotors.in,8597437610,Active,2020-09-28
+BRN00213,Chamba District Motors,Branch,MDL0009,213,Chamba,Himachal Pradesh,nan,chamba@oemmotors.in,8474944630,Active,2016-11-20
+BRN00214,Hamirpur District Motors,Branch,MDL0009,214,Hamirpur,Himachal Pradesh,nan,hamirpur@oemmotors.in,8799452030,Active,2009-08-05
+BRN00215,Kangra District Motors,Branch,MDL0009,215,Dharamshala,Himachal Pradesh,nan,kangra@industrialfleet.in,8272882577,Active,2011-04-03
+BRN00216,Kinnaur District Motors,Branch,MDL0009,216,Reckong Peo,Himachal Pradesh,nan,kinnaur@dealerhub.in,8103899561,Active,2005-12-21
+BRN00217,Kullu District Motors,Branch,MDL0009,217,Kullu,Himachal Pradesh,nan,kullu@dealerhub.in,8947307253,Active,2020-07-20
+BRN00218,Lahaul and Spiti District Motors,Branch,MDL0009,218,Keylong,Himachal Pradesh,nan,lahaulandspiti@dealerhub.in,8641836458,Active,2005-12-12
+BRN00219,Mandi District Motors,Branch,MDL0009,219,Mandi,Himachal Pradesh,nan,mandi@dealerhub.in,8286290795,Active,2017-11-09
+BRN00220,Shimla District Motors,Branch,MDL0009,220,Shimla,Himachal Pradesh,nan,shimla@industrialfleet.in,8695043096,Active,2024-01-21
+BRN00221,Sirmaur District Motors,Branch,MDL0009,221,Nahan,Himachal Pradesh,nan,sirmaur@dealerhub.in,8446277774,Active,2018-08-16
+BRN00222,Solan District Motors,Branch,MDL0009,222,Solan,Himachal Pradesh,nan,solan@dealerhub.in,8204693486,Active,2021-06-02
+BRN00223,Una District Motors,Branch,MDL0009,223,Una,Himachal Pradesh,nan,una@oemmotors.in,8542734476,Active,2012-04-27
+BRN00224,Bokaro District Motors,Branch,MDL0010,224,Bokaro,Jharkhand,827001.0,bokaro@dealerhub.in,8880714997,Inactive,2013-08-12
+BRN00225,Chatra District Motors,Branch,MDL0010,225,Chatra,Jharkhand,825401.0,chatra@oemmotors.in,8901076769,Active,2010-06-23
+BRN00226,Deoghar District Motors,Branch,MDL0010,226,Deoghar,Jharkhand,814001.0,deoghar@oemmotors.in,8444881142,Active,2011-10-29
+BRN00227,Dhanbad District Motors,Branch,MDL0010,227,Dhanbad,Jharkhand,826001.0,dhanbad@oemmotors.in,8926553360,Active,2006-11-18
+BRN00228,Dumka District Motors,Branch,MDL0010,228,Dumka,Jharkhand,814101.0,dumka@industrialfleet.in,8598325218,Inactive,2020-12-18
+BRN00229,East Singhbhum District Motors,Branch,MDL0010,229,Jamshedpur,Jharkhand,831001.0,eastsinghbhum@industrialfleet.in,8942347955,Active,2009-03-11
+BRN00230,Garhwa District Motors,Branch,MDL0010,230,Garhwa,Jharkhand,822114.0,garhwa@industrialfleet.in,8761255358,Inactive,2006-02-16
+BRN00231,Giridih District Motors,Branch,MDL0010,231,Giridih,Jharkhand,815301.0,giridih@oemmotors.in,8622829596,Active,2021-01-11
+BRN00232,Godda District Motors,Branch,MDL0010,232,Godda,Jharkhand,814133.0,godda@industrialfleet.in,8622398108,Active,2023-05-01
+BRN00233,Gumla District Motors,Branch,MDL0010,233,Gumla,Jharkhand,835207.0,gumla@industrialfleet.in,8229491800,Active,2021-03-17
+BRN00234,Hazaribag District Motors,Branch,MDL0010,234,Hazaribag,Jharkhand,825301.0,hazaribag@dealerhub.in,8432422057,Active,2021-03-10
+BRN00235,Jamtara District Motors,Branch,MDL0010,235,Jamtara,Jharkhand,815351.0,jamtara@industrialfleet.in,8102046519,Active,2014-11-20
+BRN00236,Khunti District Motors,Branch,MDL0010,236,Khunti,Jharkhand,835210.0,khunti@dealerhub.in,8716503983,Inactive,2013-02-25
+BRN00237,Koderma District Motors,Branch,MDL0010,237,Koderma,Jharkhand,825410.0,koderma@industrialfleet.in,8527791923,Inactive,2015-12-16
+BRN00238,Latehar District Motors,Branch,MDL0010,238,Latehar,Jharkhand,829206.0,latehar@industrialfleet.in,8384810705,Active,2017-09-09
+BRN00239,Lohardaga District Motors,Branch,MDL0010,239,Lohardaga,Jharkhand,835302.0,lohardaga@oemmotors.in,8786519459,Active,2011-10-09
+BRN00240,Pakur District Motors,Branch,MDL0010,240,Pakur,Jharkhand,816107.0,pakur@dealerhub.in,8252719647,Active,2014-03-22
+BRN00241,Palamu District Motors,Branch,MDL0010,241,Daltonganj,Jharkhand,822101.0,palamu@industrialfleet.in,8436602717,Active,2022-04-02
+BRN00242,Ramgarh District Motors,Branch,MDL0010,242,Ramgarh,Jharkhand,829122.0,ramgarh@oemmotors.in,8521349660,Active,2013-04-05
+BRN00243,Ranchi District Motors,Branch,MDL0010,243,Ranchi,Jharkhand,834001.0,ranchi@industrialfleet.in,8648315494,Active,2006-10-09
+BRN00244,Sahibganj District Motors,Branch,MDL0010,244,Sahebganj,Jharkhand,816109.0,sahibganj@industrialfleet.in,8317068065,Active,2015-04-28
+BRN00245,Seraikela-Kharsawan District Motors,Branch,MDL0010,245,Seraikela,Jharkhand,832401.0,seraikela-kharsawan@oemmotors.in,8607507681,Active,2016-07-25
+BRN00246,Simdega District Motors,Branch,MDL0010,246,Simdega,Jharkhand,835223.0,simdega@dealerhub.in,8806525203,Inactive,2011-04-10
+BRN00247,West Singhbhum District Motors,Branch,MDL0010,247,Chaibasa,Jharkhand,833201.0,westsinghbhum@dealerhub.in,8836453358,Active,2012-02-08
+BRN00248,Bagalakote District Motors,Branch,MDL0011,248,Bagalakote,Karnataka,587101.0,bagalakote@industrialfleet.in,8733148191,Inactive,2016-12-26
+BRN00249,Ballari District Motors,Branch,MDL0011,249,Ballari,Karnataka,583101.0,ballari@oemmotors.in,8908013012,Active,2019-03-12
+BRN00250,Belagavi District Motors,Branch,MDL0011,250,Belagavi,Karnataka,590001.0,belagavi@oemmotors.in,8318613223,Active,2017-02-17
+BRN00251,Bengaluru Rural District Motors,Branch,MDL0011,251,Bengaluru,Karnataka,560001.0,bengalururural@industrialfleet.in,8277595968,Active,2021-03-25
+BRN00252,Bengaluru Urban District Motors,Branch,MDL0011,252,Bengaluru,Karnataka,560001.0,bengaluruurban@dealerhub.in,8384935310,Inactive,2014-07-02
+BRN00253,Bidar District Motors,Branch,MDL0011,253,Bidar,Karnataka,585401.0,bidar@industrialfleet.in,8674482315,Active,2010-07-29
+BRN00254,Chamarajanagara District Motors,Branch,MDL0011,254,Chamarajanagara,Karnataka,571313.0,chamarajanagara@industrialfleet.in,8375995030,Active,2018-07-28
+BRN00255,Chikkaballapura District Motors,Branch,MDL0011,255,Chikkaballapura,Karnataka,562101.0,chikkaballapura@industrialfleet.in,8969403811,Active,2024-01-06
+BRN00256,Chikkamagaluru District Motors,Branch,MDL0011,256,Chikkamagaluru,Karnataka,577101.0,chikkamagaluru@oemmotors.in,8704687446,Active,2009-07-23
+BRN00257,Chitradurga District Motors,Branch,MDL0011,257,Chitradurga,Karnataka,577501.0,chitradurga@industrialfleet.in,8282824843,Active,2016-06-13
+BRN00258,Dakshina Kannada District Motors,Branch,MDL0011,258,Mangalore,Karnataka,575001.0,dakshinakannada@industrialfleet.in,8643572679,Active,2019-05-14
+BRN00259,Davanagere District Motors,Branch,MDL0011,259,Davangere,Karnataka,577001.0,davanagere@oemmotors.in,8850056046,Inactive,2020-05-03
+BRN00260,Dharwada District Motors,Branch,MDL0011,260,Dharwada,Karnataka,nan,dharwada@industrialfleet.in,8525956715,Active,2018-11-09
+BRN00261,Gadaga District Motors,Branch,MDL0011,261,Gadag-Betageri,Karnataka,582101.0,gadaga@industrialfleet.in,8293446555,Inactive,2009-04-24
+BRN00262,Kalaburagi District Motors,Branch,MDL0011,262,Kalaburagi,Karnataka,585101.0,kalaburagi@dealerhub.in,8863786036,Active,2013-06-15
+BRN00263,Hassan District Motors,Branch,MDL0011,263,Hassan,Karnataka,573201.0,hassan@oemmotors.in,8311449043,Active,2021-03-04
+BRN00264,Haveri District Motors,Branch,MDL0011,264,Haveri,Karnataka,581110.0,haveri@industrialfleet.in,8813930772,Inactive,2016-01-11
+BRN00265,Kodagu District Motors,Branch,MDL0011,265,Madikeri,Karnataka,571201.0,kodagu@oemmotors.in,8729873296,Active,2006-05-04
+BRN00266,Kolar District Motors,Branch,MDL0011,266,Kolar,Karnataka,563101.0,kolar@industrialfleet.in,8489033891,Active,2013-05-23
+BRN00267,Koppala District Motors,Branch,MDL0011,267,Koppala,Karnataka,583231.0,koppala@oemmotors.in,8668668250,Inactive,2016-07-09
+BRN00268,Mandya District Motors,Branch,MDL0011,268,Mandya,Karnataka,571401.0,mandya@dealerhub.in,8383137737,Active,2010-04-03
+BRN00269,Mysuru District Motors,Branch,MDL0011,269,Mysuru,Karnataka,570001.0,mysuru@dealerhub.in,8210912171,Active,2019-09-12
+BRN00270,Raichuru District Motors,Branch,MDL0011,270,Raichuru,Karnataka,584101.0,raichuru@dealerhub.in,8283744484,Active,2012-01-27
+BRN00271,Ramanagara District Motors,Branch,MDL0011,271,Ramanagara,Karnataka,571501.0,ramanagara@industrialfleet.in,8665283932,Active,2005-10-04
+BRN00272,Shivamogga District Motors,Branch,MDL0011,272,Shivamogga,Karnataka,577201.0,shivamogga@dealerhub.in,8822927250,Inactive,2023-07-14
+BRN00273,Tumakuru District Motors,Branch,MDL0011,273,Tumakuru,Karnataka,572101.0,tumakuru@industrialfleet.in,8745300396,Active,2008-10-12
+BRN00274,Udupi District Motors,Branch,MDL0011,274,Udupi,Karnataka,576101.0,udupi@oemmotors.in,8504720039,Active,2015-05-28
+BRN00275,Uttara Kannada District Motors,Branch,MDL0011,275,Karwar,Karnataka,581301.0,uttarakannada@dealerhub.in,8278006142,Active,2009-03-06
+BRN00276,Vijayanagara District Motors,Branch,MDL0011,276,Hospete,Karnataka,583201.0,vijayanagara@industrialfleet.in,8508068359,Inactive,2008-09-06
+BRN00277,Vijayapura District Motors,Branch,MDL0011,277,Vijayapura,Karnataka,586101.0,vijayapura@oemmotors.in,8961537802,Inactive,2012-09-09
+BRN00278,Yadgiri District Motors,Branch,MDL0011,278,Yadgiri,Karnataka,585201.0,yadgiri@dealerhub.in,8821590398,Active,2019-06-16
+BRN00279,Alappuzha District Motors,Branch,MDL0012,279,Alappuzha,Kerala,688001.0,alappuzha@industrialfleet.in,8990177420,Active,2007-03-25
+BRN00280,Ernakulam District Motors,Branch,MDL0012,280,Kakkanad,Kerala,682030.0,ernakulam@dealerhub.in,8461565562,Active,2007-08-01
+BRN00281,Idukki District Motors,Branch,MDL0012,281,Painavu,Kerala,685603.0,idukki@oemmotors.in,8959626082,Active,2017-04-26
+BRN00282,Kannur District Motors,Branch,MDL0012,282,Kannur,Kerala,670001.0,kannur@oemmotors.in,8954304203,Inactive,2011-02-16
+BRN00283,Kasaragod District Motors,Branch,MDL0012,283,Kasaragod,Kerala,671121.0,kasaragod@dealerhub.in,8971748012,Inactive,2006-03-17
+BRN00284,Kollam District Motors,Branch,MDL0012,284,Kollam,Kerala,691001.0,kollam@industrialfleet.in,8718337607,Active,2008-04-19
+BRN00285,Kottayam District Motors,Branch,MDL0012,285,Kottayam,Kerala,686001.0,kottayam@oemmotors.in,8654488750,Inactive,2006-12-29
+BRN00286,Kozhikode District Motors,Branch,MDL0012,286,Kozhikode,Kerala,673001.0,kozhikode@oemmotors.in,8208897212,Inactive,2013-12-08
+BRN00287,Malappuram District Motors,Branch,MDL0012,287,Malappuram,Kerala,676505.0,malappuram@oemmotors.in,8804528206,Inactive,2023-04-21
+BRN00288,Palakkad District Motors,Branch,MDL0012,288,Palakkad,Kerala,678001.0,palakkad@oemmotors.in,8917805584,Active,2018-11-11
+BRN00289,Pathanamthitta District Motors,Branch,MDL0012,289,Pathanamthitta,Kerala,689645.0,pathanamthitta@dealerhub.in,8541730354,Active,2019-06-15
+BRN00290,Thiruvananthapuram District Motors,Branch,MDL0012,290,Thiruvananthapuram,Kerala,695001.0,thiruvananthapuram@dealerhub.in,8928378157,Active,2010-06-01
+BRN00291,Thrissur District Motors,Branch,MDL0012,291,Thrissur,Kerala,680001.0,thrissur@oemmotors.in,8383079947,Active,2017-11-17
+BRN00292,Wayanad District Motors,Branch,MDL0012,292,Kalpetta,Kerala,673121.0,wayanad@industrialfleet.in,8558159991,Active,2022-07-08
+BRN00293,Agar Malwa District Motors,Branch,MDL0013,293,Agar,Madhya Pradesh,465441.0,agarmalwa@industrialfleet.in,8935000603,Inactive,2013-07-11
+BRN00294,Alirajpur District Motors,Branch,MDL0013,294,Alirajpur,Madhya Pradesh,457887.0,alirajpur@oemmotors.in,8966554714,Active,2012-01-09
+BRN00295,Anuppur District Motors,Branch,MDL0013,295,Anuppur,Madhya Pradesh,484224.0,anuppur@oemmotors.in,8946261602,Active,2021-12-19
+BRN00296,Ashoknagar District Motors,Branch,MDL0013,296,Ashoknagar,Madhya Pradesh,473331.0,ashoknagar@oemmotors.in,8834826539,Inactive,2005-08-03
+BRN00297,Balaghat District Motors,Branch,MDL0013,297,Balaghat,Madhya Pradesh,481001.0,balaghat@industrialfleet.in,8196861155,Active,2006-07-26
+BRN00298,Barwani District Motors,Branch,MDL0013,298,Barwani,Madhya Pradesh,451551.0,barwani@industrialfleet.in,8226086405,Inactive,2019-08-31
+BRN00299,Betul District Motors,Branch,MDL0013,299,Betul,Madhya Pradesh,460001.0,betul@oemmotors.in,8442938035,Inactive,2012-05-23
+BRN00300,Bhind District Motors,Branch,MDL0013,300,Bhind,Madhya Pradesh,477001.0,bhind@oemmotors.in,8344252861,Active,2006-09-12
+BRN00301,Bhopal District Motors,Branch,MDL0013,301,Bhopal,Madhya Pradesh,462001.0,bhopal@dealerhub.in,8290081036,Active,2009-07-05
+BRN00302,Burhanpur District Motors,Branch,MDL0013,302,Burhanpur,Madhya Pradesh,450331.0,burhanpur@oemmotors.in,8775115752,Inactive,2016-11-19
+BRN00303,Chhatarpur District Motors,Branch,MDL0013,303,Chhatarpur,Madhya Pradesh,471001.0,chhatarpur@industrialfleet.in,8651329622,Inactive,2016-01-05
+BRN00304,Chhindwara District Motors,Branch,MDL0013,304,Chhindwara,Madhya Pradesh,480001.0,chhindwara@dealerhub.in,8654265033,Active,2006-12-13
+BRN00305,Damoh District Motors,Branch,MDL0013,305,Damoh,Madhya Pradesh,470661.0,damoh@industrialfleet.in,8528597322,Inactive,2009-04-14
+BRN00306,Datia District Motors,Branch,MDL0013,306,Datia,Madhya Pradesh,475661.0,datia@oemmotors.in,8955257254,Active,2010-02-15
+BRN00307,Dewas District Motors,Branch,MDL0013,307,Dewas,Madhya Pradesh,455001.0,dewas@oemmotors.in,8978069524,Active,2005-06-02
+BRN00308,Dhar District Motors,Branch,MDL0013,308,Dhar,Madhya Pradesh,454001.0,dhar@dealerhub.in,8796276686,Active,2006-02-25
+BRN00309,Dindori District Motors,Branch,MDL0013,309,Dindori,Madhya Pradesh,481879.0,dindori@oemmotors.in,8742927683,Inactive,2018-05-30
+BRN00310,Guna District Motors,Branch,MDL0013,310,Guna,Madhya Pradesh,473001.0,guna@industrialfleet.in,8889817123,Active,2017-09-23
+BRN00311,Gwalior District Motors,Branch,MDL0013,311,Gwalior,Madhya Pradesh,474001.0,gwalior@dealerhub.in,8531358002,Active,2023-10-28
+BRN00312,Harda District Motors,Branch,MDL0013,312,Harda,Madhya Pradesh,461331.0,harda@dealerhub.in,8987059619,Active,2022-02-06
+BRN00313,Hoshangabad District Motors,Branch,MDL0013,313,Hoshangabad,Madhya Pradesh,461001.0,hoshangabad@dealerhub.in,8838290655,Active,2015-11-17
+BRN00314,Indore District Motors,Branch,MDL0013,314,Indore,Madhya Pradesh,452001.0,indore@oemmotors.in,8554184612,Active,2006-05-20
+BRN00315,Jabalpur District Motors,Branch,MDL0013,315,Jabalpur,Madhya Pradesh,482001.0,jabalpur@oemmotors.in,8612978000,Active,2005-07-26
+BRN00316,Jhabua District Motors,Branch,MDL0013,316,Jhabua,Madhya Pradesh,457661.0,jhabua@dealerhub.in,8679087066,Active,2005-09-27
+BRN00317,Katni District Motors,Branch,MDL0013,317,Katni,Madhya Pradesh,483501.0,katni@oemmotors.in,8692441901,Inactive,2012-01-25
+BRN00318,Khandwa District Motors,Branch,MDL0013,318,Khandwa,Madhya Pradesh,450001.0,khandwa@industrialfleet.in,8598127974,Active,2018-01-09
+BRN00319,Khargone District Motors,Branch,MDL0013,319,Khargone,Madhya Pradesh,451001.0,khargone@oemmotors.in,8975050035,Active,2010-11-17
+BRN00320,Mandla District Motors,Branch,MDL0013,320,Mandla,Madhya Pradesh,481661.0,mandla@industrialfleet.in,8440869100,Active,2009-02-17
+BRN00321,Mandsaur District Motors,Branch,MDL0013,321,Mandsaur,Madhya Pradesh,458001.0,mandsaur@industrialfleet.in,8144932378,Active,2018-05-27
+BRN00322,Morena District Motors,Branch,MDL0013,322,Morena,Madhya Pradesh,476001.0,morena@dealerhub.in,8711105775,Active,2023-07-28
+BRN00323,Narsinghpur District Motors,Branch,MDL0013,323,Narsinghpur,Madhya Pradesh,487001.0,narsinghpur@oemmotors.in,8649340906,Active,2013-09-19
+BRN00324,Neemuch District Motors,Branch,MDL0013,324,Neemuch,Madhya Pradesh,458441.0,neemuch@industrialfleet.in,8661377402,Active,2022-09-23
+BRN00325,Niwari District Motors,Branch,MDL0013,325,Niwari,Madhya Pradesh,472001.0,niwari@dealerhub.in,8188986662,Active,2014-09-14
+BRN00326,Panna District Motors,Branch,MDL0013,326,Panna,Madhya Pradesh,488001.0,panna@industrialfleet.in,8785259793,Active,2022-10-22
+BRN00327,Raisen District Motors,Branch,MDL0013,327,Raisen,Madhya Pradesh,464551.0,raisen@industrialfleet.in,8472368032,Inactive,2015-08-23
+BRN00328,Rajgarh District Motors,Branch,MDL0013,328,Rajgarh,Madhya Pradesh,465661.0,rajgarh@oemmotors.in,8941742684,Active,2006-08-02
+BRN00329,Ratlam District Motors,Branch,MDL0013,329,Ratlam,Madhya Pradesh,457001.0,ratlam@oemmotors.in,8780232697,Active,2010-06-21
+BRN00330,Rewa District Motors,Branch,MDL0013,330,Rewa,Madhya Pradesh,486001.0,rewa@industrialfleet.in,8814409500,Active,2009-11-14
+BRN00331,Sagar District Motors,Branch,MDL0013,331,Sagar,Madhya Pradesh,470001.0,sagar@dealerhub.in,8268453028,Inactive,2020-11-15
+BRN00332,Satna District Motors,Branch,MDL0013,332,Satna,Madhya Pradesh,485001.0,satna@industrialfleet.in,8781616630,Inactive,2018-01-05
+BRN00333,Sehore District Motors,Branch,MDL0013,333,Sehore,Madhya Pradesh,466001.0,sehore@dealerhub.in,8101356920,Active,2015-10-08
+BRN00334,Seoni District Motors,Branch,MDL0013,334,Seoni,Madhya Pradesh,480661.0,seoni@oemmotors.in,8177047551,Active,2009-01-17
+BRN00335,Shahdol District Motors,Branch,MDL0013,335,Shahdol,Madhya Pradesh,484001.0,shahdol@oemmotors.in,8990844278,Active,2008-02-13
+BRN00336,Shajapur District Motors,Branch,MDL0013,336,Shajapur,Madhya Pradesh,465001.0,shajapur@industrialfleet.in,8806186952,Active,2015-09-22
+BRN00337,Sheopur District Motors,Branch,MDL0013,337,Sheopur,Madhya Pradesh,476337.0,sheopur@industrialfleet.in,8781649868,Active,2009-07-15
+BRN00338,Shivpuri District Motors,Branch,MDL0013,338,Shivpuri,Madhya Pradesh,473551.0,shivpuri@oemmotors.in,8618601069,Active,2006-02-21
+BRN00339,Sidhi District Motors,Branch,MDL0013,339,Sidhi,Madhya Pradesh,486661.0,sidhi@dealerhub.in,8239891478,Active,2011-05-06
+BRN00340,Singrauli District Motors,Branch,MDL0013,340,Waidhan,Madhya Pradesh,486886.0,singrauli@oemmotors.in,8820836954,Active,2011-09-14
+BRN00341,Tikamgarh District Motors,Branch,MDL0013,341,Tikamgarh,Madhya Pradesh,472001.0,tikamgarh@oemmotors.in,8514216815,Active,2009-08-25
+BRN00342,Ujjain District Motors,Branch,MDL0013,342,Ujjain,Madhya Pradesh,456001.0,ujjain@industrialfleet.in,8297047600,Active,2017-05-02
+BRN00343,Umaria District Motors,Branch,MDL0013,343,Umaria,Madhya Pradesh,484661.0,umaria@dealerhub.in,8942462544,Active,2010-07-06
+BRN00344,Vidisha District Motors,Branch,MDL0013,344,Vidisha,Madhya Pradesh,464001.0,vidisha@industrialfleet.in,8377775851,Inactive,2009-12-11
+BRN00345,Ahmednagar District Motors,Branch,MDL0014,345,Ahmednagar,Maharashtra,414001.0,ahmednagar@industrialfleet.in,8742469736,Active,2012-08-09
+BRN00346,Akola District Motors,Branch,MDL0014,346,Akola,Maharashtra,444001.0,akola@dealerhub.in,8691669650,Active,2021-08-31
+BRN00347,Amravati District Motors,Branch,MDL0014,347,Amravati,Maharashtra,444601.0,amravati@industrialfleet.in,8151926543,Active,2022-12-08
+BRN00348,Beed District Motors,Branch,MDL0014,348,Beed,Maharashtra,431122.0,beed@oemmotors.in,8268346845,Inactive,2020-02-04
+BRN00349,Bhandara District Motors,Branch,MDL0014,349,Bhandara,Maharashtra,441904.0,bhandara@oemmotors.in,8586748337,Active,2023-08-26
+BRN00350,Buldhana District Motors,Branch,MDL0014,350,Buldhana,Maharashtra,443001.0,buldhana@industrialfleet.in,8568544734,Inactive,2020-05-10
+BRN00351,Chandrapur District Motors,Branch,MDL0014,351,Chandrapur,Maharashtra,442401.0,chandrapur@industrialfleet.in,8344581191,Active,2016-11-23
+BRN00352,Osmanabad District Motors,Branch,MDL0014,352,Osmanabad,Maharashtra,413501.0,osmanabad@industrialfleet.in,8684023892,Active,2012-08-29
+BRN00353,Dhule District Motors,Branch,MDL0014,353,Dhule,Maharashtra,424001.0,dhule@oemmotors.in,8227864007,Inactive,2012-02-27
+BRN00354,Gadchiroli District Motors,Branch,MDL0014,354,Gadchiroli,Maharashtra,442605.0,gadchiroli@oemmotors.in,8558200550,Active,2011-05-19
+BRN00355,Gondia District Motors,Branch,MDL0014,355,Gondia,Maharashtra,441601.0,gondia@dealerhub.in,8381179301,Active,2011-11-05
+BRN00356,Hingoli District Motors,Branch,MDL0014,356,Hingoli,Maharashtra,431513.0,hingoli@oemmotors.in,8983389333,Active,2006-07-03
+BRN00357,Jalgaon District Motors,Branch,MDL0014,357,Jalgaon,Maharashtra,425001.0,jalgaon@oemmotors.in,8458982615,Inactive,2021-04-28
+BRN00358,Jalna District Motors,Branch,MDL0014,358,Jalna,Maharashtra,431203.0,jalna@industrialfleet.in,8469789537,Inactive,2008-12-09
+BRN00359,Kolhapur District Motors,Branch,MDL0014,359,Kolhapur,Maharashtra,416001.0,kolhapur@industrialfleet.in,8568748468,Active,2020-08-03
+BRN00360,Latur District Motors,Branch,MDL0014,360,Latur,Maharashtra,413512.0,latur@oemmotors.in,8338718933,Active,2018-07-13
+BRN00361,Mumbai City District Motors,Branch,MDL0014,361,Mumbai,Maharashtra,400001.0,mumbaicity@dealerhub.in,8874869486,Inactive,2018-09-03
+BRN00362,Mumbai Suburban District Motors,Branch,MDL0014,362,Bandra (East),Maharashtra,400051.0,mumbaisuburban@dealerhub.in,8504432919,Active,2006-09-18
+BRN00363,Nanded District Motors,Branch,MDL0014,363,Nanded,Maharashtra,431601.0,nanded@oemmotors.in,8261402980,Inactive,2022-03-15
+BRN00364,Nandurbar District Motors,Branch,MDL0014,364,Nandurbar,Maharashtra,425412.0,nandurbar@industrialfleet.in,8413588041,Inactive,2013-08-16
+BRN00365,Nagpur District Motors,Branch,MDL0014,365,Nagpur,Maharashtra,440001.0,nagpur@oemmotors.in,8186667000,Active,2013-06-27
+BRN00366,Nashik District Motors,Branch,MDL0014,366,Nashik,Maharashtra,422001.0,nashik@oemmotors.in,8713224191,Active,2016-09-06
+BRN00367,Palghar District Motors,Branch,MDL0014,367,Palghar,Maharashtra,401404.0,palghar@dealerhub.in,8948510230,Active,2013-05-20
+BRN00368,Parbhani District Motors,Branch,MDL0014,368,Parbhani,Maharashtra,431401.0,parbhani@oemmotors.in,8826971334,Active,2018-06-19
+BRN00369,Pune District Motors,Branch,MDL0014,369,Pune,Maharashtra,411001.0,pune@industrialfleet.in,8122361884,Active,2019-09-26
+BRN00370,Raigad District Motors,Branch,MDL0014,370,Alibag,Maharashtra,402201.0,raigad@dealerhub.in,8516939425,Active,2015-01-08
+BRN00371,Ratnagiri District Motors,Branch,MDL0014,371,Ratnagiri,Maharashtra,415612.0,ratnagiri@dealerhub.in,8952763063,Active,2020-05-17
+BRN00372,Aurangabad District Motors,Branch,MDL0014,372,Aurangabad,Maharashtra,431001.0,aurangabad@industrialfleet.in,8877150671,Active,2005-09-12
+BRN00373,Sangli District Motors,Branch,MDL0014,373,Sangli,Maharashtra,416416.0,sangli@dealerhub.in,8355153903,Inactive,2006-08-10
+BRN00374,Satara District Motors,Branch,MDL0014,374,Satara,Maharashtra,415001.0,satara@industrialfleet.in,8831421991,Inactive,2008-07-24
+BRN00375,Sindhudurg District Motors,Branch,MDL0014,375,Oros,Maharashtra,416812.0,sindhudurg@industrialfleet.in,8318613099,Active,2014-12-11
+BRN00376,Solapur District Motors,Branch,MDL0014,376,Solapur,Maharashtra,413001.0,solapur@dealerhub.in,8710579149,Active,2022-07-26
+BRN00377,Thane District Motors,Branch,MDL0014,377,Thane,Maharashtra,400601.0,thane@industrialfleet.in,8626690426,Inactive,2018-09-27
+BRN00378,Wardha District Motors,Branch,MDL0014,378,Wardha,Maharashtra,442001.0,wardha@dealerhub.in,8243237000,Inactive,2020-05-20
+BRN00379,Washim District Motors,Branch,MDL0014,379,Washim,Maharashtra,444505.0,washim@oemmotors.in,8733956277,Active,2008-02-03
+BRN00380,Yavatmal District Motors,Branch,MDL0014,380,Yavatmal,Maharashtra,445001.0,yavatmal@industrialfleet.in,8102112379,Active,2017-09-09
+BRN00381,Bishnupur District Motors,Branch,MDL0015,381,Bishnupur,Manipur,nan,bishnupur@industrialfleet.in,8792555223,Active,2007-11-22
+BRN00382,Chandel District Motors,Branch,MDL0015,382,Chandel,Manipur,nan,chandel@dealerhub.in,8433379389,Active,2011-09-03
+BRN00383,Churachandpur District Motors,Branch,MDL0015,383,Churachandpur,Manipur,nan,churachandpur@dealerhub.in,8541519257,Active,2021-02-25
+BRN00384,Imphal East District Motors,Branch,MDL0015,384,Porompat,Manipur,nan,imphaleast@oemmotors.in,8172323287,Active,2022-03-13
+BRN00385,Imphal West District Motors,Branch,MDL0015,385,Lamphelpat,Manipur,nan,imphalwest@industrialfleet.in,8679069928,Inactive,2014-06-18
+BRN00386,Jiribam District Motors,Branch,MDL0015,386,Jiribam,Manipur,nan,jiribam@oemmotors.in,8789777358,Active,2014-09-26
+BRN00387,Kakching District Motors,Branch,MDL0015,387,Kakching,Manipur,nan,kakching@dealerhub.in,8155027834,Active,2011-11-02
+BRN00388,Kamjong District Motors,Branch,MDL0015,388,Kamjong,Manipur,nan,kamjong@oemmotors.in,8784143604,Inactive,2023-12-28
+BRN00389,Kangpokpi District Motors,Branch,MDL0015,389,Kangpokpi,Manipur,nan,kangpokpi@dealerhub.in,8411687622,Active,2013-08-13
+BRN00390,Noney District Motors,Branch,MDL0015,390,Noney (Longmai),Manipur,nan,noney@industrialfleet.in,8777232325,Active,2018-06-18
+BRN00391,Pherzawl District Motors,Branch,MDL0015,391,Pherzawl,Manipur,nan,pherzawl@dealerhub.in,8434867513,Active,2015-10-10
+BRN00392,Senapati District Motors,Branch,MDL0015,392,Senapati,Manipur,nan,senapati@oemmotors.in,8917633035,Inactive,2007-02-25
+BRN00393,Tamenglong District Motors,Branch,MDL0015,393,Tamenglong,Manipur,nan,tamenglong@oemmotors.in,8109580694,Active,2012-08-09
+BRN00394,Tengnoupal District Motors,Branch,MDL0015,394,Tengnoupal,Manipur,nan,tengnoupal@industrialfleet.in,8564297419,Active,2021-03-14
+BRN00395,Thoubal District Motors,Branch,MDL0015,395,Thoubal,Manipur,nan,thoubal@industrialfleet.in,8807644584,Active,2023-03-10
+BRN00396,Ukhrul District Motors,Branch,MDL0015,396,Ukhrul,Manipur,nan,ukhrul@oemmotors.in,8473287695,Active,2014-12-17
+BRN00397,East Garo Hills District Motors,Branch,MDL0016,397,Williamnagar,Meghalaya,nan,eastgarohills@oemmotors.in,8210455183,Active,2012-11-13
+BRN00398,East Khasi Hills District Motors,Branch,MDL0016,398,Shillong,Meghalaya,793001.0,eastkhasihills@dealerhub.in,8314175431,Active,2021-05-28
+BRN00399,East Jaintia Hills District Motors,Branch,MDL0016,399,Khliehriat,Meghalaya,nan,eastjaintiahills@dealerhub.in,8238956500,Inactive,2019-05-08
+BRN00400,Eastern West Khasi Hills District Motors,Branch,MDL0016,400,Mairang,Meghalaya,nan,easternwestkhasihills@industrialfleet.in,8962258608,Inactive,2016-06-01
+BRN00401,North Garo Hills District Motors,Branch,MDL0016,401,Resubelpara,Meghalaya,nan,northgarohills@dealerhub.in,8378490768,Inactive,2017-08-31
+BRN00402,Ri Bhoi District Motors,Branch,MDL0016,402,Nongpoh,Meghalaya,nan,ribhoi@industrialfleet.in,8271690680,Active,2005-10-25
+BRN00403,South Garo Hills District Motors,Branch,MDL0016,403,Baghmara,Meghalaya,nan,southgarohills@oemmotors.in,8180398044,Inactive,2006-10-19
+BRN00404,South West Garo Hills District Motors,Branch,MDL0016,404,Ampati,Meghalaya,nan,southwestgarohills@oemmotors.in,8948070078,Active,2019-06-21
+BRN00405,South West Khasi Hills District Motors,Branch,MDL0016,405,Mawkyrwat,Meghalaya,nan,southwestkhasihills@oemmotors.in,8953340600,Active,2009-10-25
+BRN00406,West Garo Hills District Motors,Branch,MDL0016,406,Tura,Meghalaya,nan,westgarohills@oemmotors.in,8347444684,Inactive,2012-04-11
+BRN00407,West Jaintia Hills District Motors,Branch,MDL0016,407,Jowai,Meghalaya,nan,westjaintiahills@dealerhub.in,8619807161,Active,2006-05-28
+BRN00408,West Khasi Hills District Motors,Branch,MDL0016,408,Nongstoin,Meghalaya,nan,westkhasihills@oemmotors.in,8293520895,Inactive,2022-03-13
+BRN00409,Aizawl District Motors,Branch,MDL0017,409,Aizawl,Mizoram,796001.0,aizawl@dealerhub.in,8561934862,Inactive,2005-07-10
+BRN00410,Champhai District Motors,Branch,MDL0017,410,Champhai,Mizoram,nan,champhai@industrialfleet.in,8397060790,Active,2009-05-15
+BRN00411,Hnahthial District Motors,Branch,MDL0017,411,Hnahthial,Mizoram,nan,hnahthial@oemmotors.in,8762659011,Inactive,2017-02-03
+BRN00412,Khawzawl District Motors,Branch,MDL0017,412,Khawzawl,Mizoram,nan,khawzawl@oemmotors.in,8802257131,Active,2019-02-09
+BRN00413,Kolasib District Motors,Branch,MDL0017,413,Kolasib,Mizoram,nan,kolasib@dealerhub.in,8192411582,Inactive,2015-02-08
+BRN00414,Lawngtlai District Motors,Branch,MDL0017,414,Lawngtlai,Mizoram,nan,lawngtlai@oemmotors.in,8874681842,Inactive,2007-10-15
+BRN00415,Lunglei District Motors,Branch,MDL0017,415,Lunglei,Mizoram,nan,lunglei@industrialfleet.in,8964365487,Active,2018-12-03
+BRN00416,Mamit District Motors,Branch,MDL0017,416,Mamit,Mizoram,nan,mamit@dealerhub.in,8388658543,Active,2009-05-04
+BRN00417,Saiha District Motors,Branch,MDL0017,417,Saiha,Mizoram,nan,saiha@industrialfleet.in,8790818156,Active,2006-06-22
+BRN00418,Saitual District Motors,Branch,MDL0017,418,Saitual,Mizoram,nan,saitual@dealerhub.in,8103888854,Active,2005-12-08
+BRN00419,Serchhip District Motors,Branch,MDL0017,419,Serchhip,Mizoram,nan,serchhip@oemmotors.in,8913422568,Active,2017-05-12
+BRN00420,Chümoukedima District Motors,Branch,MDL0018,420,Chümoukedima,Nagaland,nan,chümoukedima@oemmotors.in,8668442537,Active,2023-10-22
+BRN00421,Dimapur District Motors,Branch,MDL0018,421,Dimapur,Nagaland,nan,dimapur@dealerhub.in,8422355884,Inactive,2005-02-01
+BRN00422,Kiphire District Motors,Branch,MDL0018,422,Kiphire,Nagaland,nan,kiphire@oemmotors.in,8878063748,Inactive,2007-12-15
+BRN00423,Kohima District Motors,Branch,MDL0018,423,Kohima,Nagaland,797001.0,kohima@oemmotors.in,8130245603,Active,2016-07-25
+BRN00424,Longleng District Motors,Branch,MDL0018,424,Longleng,Nagaland,nan,longleng@industrialfleet.in,8602858389,Active,2014-12-06
+BRN00425,Mokokchung District Motors,Branch,MDL0018,425,Mokokchung,Nagaland,nan,mokokchung@dealerhub.in,8395416124,Active,2008-02-19
+BRN00426,Mon District Motors,Branch,MDL0018,426,Mon,Nagaland,nan,mon@dealerhub.in,8250061022,Active,2011-09-14
+BRN00427,Niuland District Motors,Branch,MDL0018,427,Niuland,Nagaland,nan,niuland@oemmotors.in,8960746236,Active,2017-08-31
+BRN00428,Noklak District Motors,Branch,MDL0018,428,Noklak,Nagaland,nan,noklak@oemmotors.in,8644091494,Inactive,2005-08-31
+BRN00429,Peren District Motors,Branch,MDL0018,429,Peren,Nagaland,nan,peren@industrialfleet.in,8231384794,Active,2014-03-20
+BRN00430,Phek District Motors,Branch,MDL0018,430,Phek,Nagaland,nan,phek@industrialfleet.in,8987326800,Active,2015-01-07
+BRN00431,Shamator District Motors,Branch,MDL0018,431,Shamator,Nagaland,nan,shamator@dealerhub.in,8485520374,Active,2013-01-20
+BRN00432,Tseminyü District Motors,Branch,MDL0018,432,Tseminyü,Nagaland,nan,tseminyü@oemmotors.in,8345377407,Inactive,2009-01-08
+BRN00433,Tuensang District Motors,Branch,MDL0018,433,Tuensang,Nagaland,nan,tuensang@dealerhub.in,8496820359,Active,2018-01-06
+BRN00434,Wokha District Motors,Branch,MDL0018,434,Wokha,Nagaland,nan,wokha@dealerhub.in,8512069465,Active,2016-11-17
+BRN00435,Zunheboto District Motors,Branch,MDL0018,435,Zunheboto,Nagaland,nan,zunheboto@dealerhub.in,8109626518,Active,2011-06-30
+BRN00436,Angul District Motors,Branch,MDL0019,436,Angul,Odisha,759122.0,angul@industrialfleet.in,8389591972,Active,2012-06-07
+BRN00437,Boudh District Motors,Branch,MDL0019,437,Boudh,Odisha,762014.0,boudh@industrialfleet.in,8682033185,Active,2020-09-21
+BRN00438,Bhadrak District Motors,Branch,MDL0019,438,Bhadrak,Odisha,756100.0,bhadrak@dealerhub.in,8964231785,Active,2012-02-19
+BRN00439,Balangir District Motors,Branch,MDL0019,439,Balangir,Odisha,767001.0,balangir@industrialfleet.in,8519388711,Active,2013-05-11
+BRN00440,Bargarh District Motors,Branch,MDL0019,440,Bargarh,Odisha,768028.0,bargarh@dealerhub.in,8747079758,Inactive,2015-06-24
+BRN00441,Balasore District Motors,Branch,MDL0019,441,Balasore,Odisha,756001.0,balasore@oemmotors.in,8208462413,Active,2007-06-19
+BRN00442,Cuttack District Motors,Branch,MDL0019,442,Cuttack,Odisha,753001.0,cuttack@oemmotors.in,8447567627,Active,2016-07-20
+BRN00443,Debagarh District Motors,Branch,MDL0019,443,Debagarh,Odisha,nan,debagarh@oemmotors.in,8601821064,Active,2014-01-07
+BRN00444,Dhenkanal District Motors,Branch,MDL0019,444,Dhenkanal,Odisha,759001.0,dhenkanal@dealerhub.in,8185537551,Active,2010-04-29
+BRN00445,Ganjam District Motors,Branch,MDL0019,445,Chhatrapur,Odisha,761020.0,ganjam@dealerhub.in,8110961973,Active,2023-03-05
+BRN00446,Gajapati District Motors,Branch,MDL0019,446,Paralakhemundi,Odisha,761200.0,gajapati@dealerhub.in,8135608087,Inactive,2021-01-25
+BRN00447,Jharsuguda District Motors,Branch,MDL0019,447,Jharsuguda,Odisha,768201.0,jharsuguda@industrialfleet.in,8589603360,Active,2013-12-14
+BRN00448,Jajpur District Motors,Branch,MDL0019,448,Jajpur,Odisha,755019.0,jajpur@oemmotors.in,8534488668,Inactive,2020-01-01
+BRN00449,Jagatsinghpur District Motors,Branch,MDL0019,449,Jagatsinghpur,Odisha,754103.0,jagatsinghpur@dealerhub.in,8259870995,Active,2017-09-19
+BRN00450,Khordha District Motors,Branch,MDL0019,450,Khordha,Odisha,752057.0,khordha@dealerhub.in,8672289838,Active,2018-11-18
+BRN00451,Kendujhar District Motors,Branch,MDL0019,451,Kendujhar,Odisha,758001.0,kendujhar@dealerhub.in,8634648741,Active,2010-06-23
+BRN00452,Kalahandi District Motors,Branch,MDL0019,452,Bhawanipatna,Odisha,766001.0,kalahandi@dealerhub.in,8866903601,Active,2005-09-30
+BRN00453,Kandhamal District Motors,Branch,MDL0019,453,Phulbani,Odisha,762001.0,kandhamal@industrialfleet.in,8177106002,Inactive,2010-01-02
+BRN00454,Koraput District Motors,Branch,MDL0019,454,Koraput,Odisha,764020.0,koraput@industrialfleet.in,8503343932,Inactive,2005-06-09
+BRN00455,Kendrapara District Motors,Branch,MDL0019,455,Kendrapara,Odisha,754211.0,kendrapara@dealerhub.in,8448722455,Inactive,2022-11-25
+BRN00456,Malkangiri District Motors,Branch,MDL0019,456,Malkangiri,Odisha,764048.0,malkangiri@dealerhub.in,8266740999,Active,2015-03-06
+BRN00457,Mayurbhanj District Motors,Branch,MDL0019,457,Baripada,Odisha,757001.0,mayurbhanj@oemmotors.in,8770453420,Active,2005-03-29
+BRN00458,Nabarangpur District Motors,Branch,MDL0019,458,Nabarangpur,Odisha,764059.0,nabarangpur@industrialfleet.in,8261926004,Active,2007-07-29
+BRN00459,Nuapada District Motors,Branch,MDL0019,459,Nuapada,Odisha,766105.0,nuapada@oemmotors.in,8581161358,Active,2006-10-27
+BRN00460,Nayagarh District Motors,Branch,MDL0019,460,Nayagarh,Odisha,752069.0,nayagarh@industrialfleet.in,8633303538,Active,2015-01-17
+BRN00461,Puri District Motors,Branch,MDL0019,461,Puri,Odisha,752001.0,puri@dealerhub.in,8393356552,Active,2022-06-29
+BRN00462,Rayagada District Motors,Branch,MDL0019,462,Rayagada,Odisha,765001.0,rayagada@dealerhub.in,8342115917,Active,2007-03-28
+BRN00463,Sambalpur District Motors,Branch,MDL0019,463,Sambalpur,Odisha,768001.0,sambalpur@industrialfleet.in,8659771904,Active,2011-10-18
+BRN00464,Subarnapur District Motors,Branch,MDL0019,464,Subarnapur,Odisha,767017.0,subarnapur@industrialfleet.in,8900014815,Inactive,2010-02-23
+BRN00465,Sundargarh District Motors,Branch,MDL0019,465,Sundergarh,Odisha,769001.0,sundargarh@dealerhub.in,8172572010,Active,2018-01-12
+BRN00466,Amritsar District Motors,Branch,MDL0020,466,Amritsar,Punjab,143001.0,amritsar@oemmotors.in,8402819078,Inactive,2020-11-21
+BRN00467,Barnala District Motors,Branch,MDL0020,467,Barnala,Punjab,148101.0,barnala@industrialfleet.in,8609114613,Inactive,2017-07-23
+BRN00468,Bathinda District Motors,Branch,MDL0020,468,Bathinda,Punjab,151001.0,bathinda@dealerhub.in,8826128908,Active,2023-02-07
+BRN00469,Firozpur District Motors,Branch,MDL0020,469,Firozpur,Punjab,152001.0,firozpur@industrialfleet.in,8990464237,Active,2011-01-14
+BRN00470,Faridkot District Motors,Branch,MDL0020,470,Faridkot,Punjab,151203.0,faridkot@industrialfleet.in,8608136696,Active,2019-03-09
+BRN00471,Fatehgarh Sahib District Motors,Branch,MDL0020,471,Fatehgarh Sahib,Punjab,140406.0,fatehgarhsahib@industrialfleet.in,8693705659,Inactive,2005-12-04
+BRN00472,Fazilka District Motors,Branch,MDL0020,472,Fazilka,Punjab,152123.0,fazilka@dealerhub.in,8318080843,Active,2017-01-20
+BRN00473,Gurdaspur District Motors,Branch,MDL0020,473,Gurdaspur,Punjab,143521.0,gurdaspur@dealerhub.in,8988146407,Active,2011-11-19
+BRN00474,Hoshiarpur District Motors,Branch,MDL0020,474,Hoshiarpur,Punjab,146001.0,hoshiarpur@dealerhub.in,8534444574,Active,2016-09-03
+BRN00475,Jalandhar District Motors,Branch,MDL0020,475,Jalandhar,Punjab,144001.0,jalandhar@industrialfleet.in,8228375411,Active,2017-07-19
+BRN00476,Kapurthala District Motors,Branch,MDL0020,476,Kapurthala,Punjab,144601.0,kapurthala@oemmotors.in,8928183345,Active,2019-04-06
+BRN00477,Ludhiana District Motors,Branch,MDL0020,477,Ludhiana,Punjab,141001.0,ludhiana@oemmotors.in,8630991703,Inactive,2013-05-21
+BRN00478,Malerkotla District Motors,Branch,MDL0020,478,Malerkotla,Punjab,148023.0,malerkotla@industrialfleet.in,8967307850,Active,2009-01-24
+BRN00479,Mansa District Motors,Branch,MDL0020,479,Mansa,Punjab,151505.0,mansa@dealerhub.in,8299986077,Inactive,2005-07-04
+BRN00480,Moga District Motors,Branch,MDL0020,480,Moga,Punjab,142001.0,moga@industrialfleet.in,8519008134,Active,2006-11-15
+BRN00481,Sri Muktsar Sahib District Motors,Branch,MDL0020,481,Sri Muktsar Sahib,Punjab,152026.0,srimuktsarsahib@industrialfleet.in,8605666795,Active,2018-08-05
+BRN00482,Pathankot District Motors,Branch,MDL0020,482,Pathankot,Punjab,145001.0,pathankot@oemmotors.in,8985867437,Inactive,2008-12-17
+BRN00483,Patiala District Motors,Branch,MDL0020,483,Patiala,Punjab,147001.0,patiala@oemmotors.in,8162676801,Active,2010-10-01
+BRN00484,Rupnagar District Motors,Branch,MDL0020,484,Rupnagar,Punjab,140001.0,rupnagar@industrialfleet.in,8427086586,Active,2013-12-01
+BRN00485,Sahibzada Ajit Singh Nagar District Motors,Branch,MDL0020,485,Sahibzada Ajit Singh Nagar,Punjab,160059.0,sahibzadaajitsinghnagar@dealerhub.in,8469256326,Active,2022-06-10
+BRN00486,Sangrur District Motors,Branch,MDL0020,486,Sangrur,Punjab,148001.0,sangrur@dealerhub.in,8359980074,Active,2023-07-27
+BRN00487,Shahid Bhagat Singh Nagar District Motors,Branch,MDL0020,487,Nawanshehr,Punjab,144514.0,shahidbhagatsinghnagar@dealerhub.in,8157827328,Active,2009-04-18
+BRN00488,Tarn Taran District Motors,Branch,MDL0020,488,Tarn Taran Sahib,Punjab,143401.0,tarntaran@oemmotors.in,8761975034,Active,2006-08-01
+BRN00489,Ajmer District Motors,Branch,MDL0021,489,Ajmer,Rajasthan,305001.0,ajmer@dealerhub.in,8370656762,Active,2020-09-01
+BRN00490,Alwar District Motors,Branch,MDL0021,490,Alwar,Rajasthan,301001.0,alwar@industrialfleet.in,8482794159,Active,2008-11-26
+BRN00491,Bikaner District Motors,Branch,MDL0021,491,Bikaner,Rajasthan,334001.0,bikaner@oemmotors.in,8842731506,Active,2017-06-22
+BRN00492,Barmer District Motors,Branch,MDL0021,492,Barmer,Rajasthan,344001.0,barmer@dealerhub.in,8405965164,Inactive,2009-01-16
+BRN00493,Banswara District Motors,Branch,MDL0021,493,Banswara,Rajasthan,327001.0,banswara@oemmotors.in,8163834817,Active,2015-07-24
+BRN00494,Bharatpur District Motors,Branch,MDL0021,494,Bharatpur,Rajasthan,321001.0,bharatpur@industrialfleet.in,8164291501,Inactive,2006-01-04
+BRN00495,Baran District Motors,Branch,MDL0021,495,Baran,Rajasthan,325205.0,baran@dealerhub.in,8691475544,Active,2011-05-27
+BRN00496,Bundi District Motors,Branch,MDL0021,496,Bundi,Rajasthan,323001.0,bundi@dealerhub.in,8898959752,Active,2016-03-02
+BRN00497,Bhilwara District Motors,Branch,MDL0021,497,Bhilwara,Rajasthan,311001.0,bhilwara@dealerhub.in,8210301064,Inactive,2023-06-02
+BRN00498,Churu District Motors,Branch,MDL0021,498,Churu,Rajasthan,331001.0,churu@dealerhub.in,8315559318,Inactive,2018-12-01
+BRN00499,Chittorgarh District Motors,Branch,MDL0021,499,Chittorgarh,Rajasthan,312001.0,chittorgarh@industrialfleet.in,8706201835,Active,2012-05-07
+BRN00500,Dausa District Motors,Branch,MDL0021,500,Dausa,Rajasthan,303303.0,dausa@industrialfleet.in,8966749802,Inactive,2023-05-13
+BRN00501,Dholpur District Motors,Branch,MDL0021,501,Dholpur,Rajasthan,328001.0,dholpur@oemmotors.in,8125317720,Active,2006-06-05
+BRN00502,Dungarpur District Motors,Branch,MDL0021,502,Dungarpur,Rajasthan,314001.0,dungarpur@industrialfleet.in,8113607033,Active,2014-10-22
+BRN00503,Sri Ganganagar District Motors,Branch,MDL0021,503,Sri Ganganagar,Rajasthan,335001.0,sriganganagar@oemmotors.in,8596926142,Active,2014-07-18
+BRN00504,Hanumangarh District Motors,Branch,MDL0021,504,Hanumangarh,Rajasthan,335513.0,hanumangarh@industrialfleet.in,8265985343,Active,2014-12-25
+BRN00505,Jhunjhunu District Motors,Branch,MDL0021,505,Jhunjhunu,Rajasthan,333001.0,jhunjhunu@dealerhub.in,8880017671,Inactive,2022-02-22
+BRN00506,Jalore District Motors,Branch,MDL0021,506,Jalore,Rajasthan,343001.0,jalore@dealerhub.in,8909243809,Active,2016-04-24
+BRN00507,Jodhpur District Motors,Branch,MDL0021,507,Jodhpur,Rajasthan,342001.0,jodhpur@oemmotors.in,8437778673,Active,2008-04-07
+BRN00508,Jaipur District Motors,Branch,MDL0021,508,Jaipur,Rajasthan,302001.0,jaipur@industrialfleet.in,8770330800,Inactive,2019-01-29
+BRN00509,Jaisalmer District Motors,Branch,MDL0021,509,Jaisalmer,Rajasthan,345001.0,jaisalmer@industrialfleet.in,8544627388,Active,2006-03-04
+BRN00510,Jhalawar District Motors,Branch,MDL0021,510,Jhalawar,Rajasthan,326001.0,jhalawar@dealerhub.in,8338911993,Active,2007-01-02
+BRN00511,Karauli District Motors,Branch,MDL0021,511,Karauli,Rajasthan,322241.0,karauli@industrialfleet.in,8758175835,Active,2008-01-03
+BRN00512,Kota District Motors,Branch,MDL0021,512,Kota,Rajasthan,324001.0,kota@industrialfleet.in,8164923833,Active,2022-04-13
+BRN00513,Nagaur District Motors,Branch,MDL0021,513,Nagaur,Rajasthan,341001.0,nagaur@oemmotors.in,8191872142,Active,2007-10-28
+BRN00514,Pali District Motors,Branch,MDL0021,514,Pali,Rajasthan,306401.0,pali@dealerhub.in,8470078263,Active,2009-01-22
+BRN00515,Pratapgarh District Motors,Branch,MDL0021,515,Pratapgarh,Rajasthan,312605.0,pratapgarh@industrialfleet.in,8445473081,Active,2018-01-06
+BRN00516,Rajsamand District Motors,Branch,MDL0021,516,Rajsamand,Rajasthan,313324.0,rajsamand@dealerhub.in,8271779089,Active,2006-02-25
+BRN00517,Sikar District Motors,Branch,MDL0021,517,Sikar,Rajasthan,332001.0,sikar@industrialfleet.in,8264106900,Active,2020-05-22
+BRN00518,Sawai Madhopur District Motors,Branch,MDL0021,518,Sawai Madhopur,Rajasthan,322001.0,sawaimadhopur@dealerhub.in,8502174688,Active,2020-03-07
+BRN00519,Sirohi District Motors,Branch,MDL0021,519,Sirohi,Rajasthan,307001.0,sirohi@industrialfleet.in,8230999198,Inactive,2014-11-17
+BRN00520,Tonk District Motors,Branch,MDL0021,520,Tonk,Rajasthan,304001.0,tonk@industrialfleet.in,8900089279,Active,2005-06-21
+BRN00521,Udaipur District Motors,Branch,MDL0021,521,Udaipur,Rajasthan,313001.0,udaipur@dealerhub.in,8386906056,Active,2021-08-02
+BRN00522,East Sikkim District Motors,Branch,MDL0022,522,Gangtok,Sikkim,737101.0,eastsikkim@industrialfleet.in,8911688309,Active,2021-02-06
+BRN00523,North Sikkim District Motors,Branch,MDL0022,523,Mangan,Sikkim,nan,northsikkim@industrialfleet.in,8218253055,Active,2009-01-16
+BRN00524,Pakyong District Motors,Branch,MDL0022,524,Pakyong,Sikkim,nan,pakyong@oemmotors.in,8544512326,Active,2014-12-19
+BRN00525,Soreng District Motors,Branch,MDL0022,525,Soreng,Sikkim,nan,soreng@dealerhub.in,8487219973,Active,2022-10-26
+BRN00526,South Sikkim District Motors,Branch,MDL0022,526,Namchi,Sikkim,nan,southsikkim@oemmotors.in,8580301184,Active,2013-07-25
+BRN00527,West Sikkim District Motors,Branch,MDL0022,527,Gyalshing,Sikkim,nan,westsikkim@oemmotors.in,8241944818,Inactive,2018-11-26
+BRN00528,Ariyalur District Motors,Branch,MDL0023,528,Ariyalur,Tamil Nadu,621704.0,ariyalur@dealerhub.in,8480654865,Active,2013-01-09
+BRN00529,Chengalpattu District Motors,Branch,MDL0023,529,Chengalpattu,Tamil Nadu,603001.0,chengalpattu@oemmotors.in,8611159078,Inactive,2018-05-17
+BRN00530,Chennai District Motors,Branch,MDL0023,530,Chennai,Tamil Nadu,600001.0,chennai@oemmotors.in,8466694585,Active,2009-12-17
+BRN00531,Coimbatore District Motors,Branch,MDL0023,531,Coimbatore,Tamil Nadu,641001.0,coimbatore@industrialfleet.in,8873168392,Active,2006-08-03
+BRN00532,Cuddalore District Motors,Branch,MDL0023,532,Cuddalore,Tamil Nadu,607001.0,cuddalore@oemmotors.in,8354089006,Active,2022-08-27
+BRN00533,Dharmapuri District Motors,Branch,MDL0023,533,Dharmapuri,Tamil Nadu,636701.0,dharmapuri@oemmotors.in,8616319010,Active,2020-01-12
+BRN00534,Dindigul District Motors,Branch,MDL0023,534,Dindigul,Tamil Nadu,624001.0,dindigul@dealerhub.in,8348027260,Inactive,2021-09-04
+BRN00535,Erode District Motors,Branch,MDL0023,535,Erode,Tamil Nadu,638001.0,erode@industrialfleet.in,8896705586,Active,2018-04-15
+BRN00536,Kallakurichi District Motors,Branch,MDL0023,536,Kallakurichi,Tamil Nadu,606202.0,kallakurichi@industrialfleet.in,8772907267,Active,2005-08-10
+BRN00537,Kanchipuram District Motors,Branch,MDL0023,537,Kanchipuram,Tamil Nadu,631501.0,kanchipuram@dealerhub.in,8941908082,Inactive,2008-08-19
+BRN00538,Kanyakumari District Motors,Branch,MDL0023,538,Nagercoil,Tamil Nadu,629001.0,kanyakumari@dealerhub.in,8784760137,Active,2014-06-15
+BRN00539,Karur District Motors,Branch,MDL0023,539,Karur,Tamil Nadu,639001.0,karur@oemmotors.in,8368257226,Active,2013-11-23
+BRN00540,Krishnagiri District Motors,Branch,MDL0023,540,Krishnagiri,Tamil Nadu,635001.0,krishnagiri@dealerhub.in,8981218965,Active,2017-06-09
+BRN00541,Madurai District Motors,Branch,MDL0023,541,Madurai,Tamil Nadu,625001.0,madurai@industrialfleet.in,8209121698,Active,2019-10-25
+BRN00542,Mayiladuthurai District Motors,Branch,MDL0023,542,Mayiladuthurai,Tamil Nadu,609001.0,mayiladuthurai@oemmotors.in,8383388812,Active,2018-03-29
+BRN00543,Nagapattinam District Motors,Branch,MDL0023,543,Nagapattinam,Tamil Nadu,611001.0,nagapattinam@industrialfleet.in,8315660436,Active,2021-06-05
+BRN00544,Nilgiris District Motors,Branch,MDL0023,544,Ooty,Tamil Nadu,643001.0,nilgiris@industrialfleet.in,8912581601,Active,2018-04-25
+BRN00545,Namakkal District Motors,Branch,MDL0023,545,Namakkal,Tamil Nadu,637001.0,namakkal@oemmotors.in,8218520433,Active,2017-12-04
+BRN00546,Perambalur District Motors,Branch,MDL0023,546,Perambalur,Tamil Nadu,621212.0,perambalur@industrialfleet.in,8448214013,Active,2014-12-10
+BRN00547,Pudukkottai District Motors,Branch,MDL0023,547,Pudukkottai,Tamil Nadu,622001.0,pudukkottai@industrialfleet.in,8539311291,Active,2019-03-09
+BRN00548,Ramanathapuram District Motors,Branch,MDL0023,548,Ramanathapuram,Tamil Nadu,623501.0,ramanathapuram@dealerhub.in,8675438520,Active,2017-05-30
+BRN00549,Ranipet District Motors,Branch,MDL0023,549,Ranipettai,Tamil Nadu,632401.0,ranipet@oemmotors.in,8863781999,Active,2015-10-18
+BRN00550,Salem District Motors,Branch,MDL0023,550,Salem,Tamil Nadu,636001.0,salem@oemmotors.in,8719492348,Active,2007-09-27
+BRN00551,Sivaganga District Motors,Branch,MDL0023,551,Sivagangai,Tamil Nadu,630561.0,sivaganga@industrialfleet.in,8884931761,Active,2009-06-04
+BRN00552,Tenkasi District Motors,Branch,MDL0023,552,Tenkasi,Tamil Nadu,627811.0,tenkasi@oemmotors.in,8845349241,Active,2010-05-09
+BRN00553,Tiruppur District Motors,Branch,MDL0023,553,Tiruppur,Tamil Nadu,641601.0,tiruppur@industrialfleet.in,8911322078,Active,2010-11-01
+BRN00554,Tiruchirappalli District Motors,Branch,MDL0023,554,Tiruchirappalli,Tamil Nadu,620001.0,tiruchirappalli@dealerhub.in,8608705901,Inactive,2006-05-10
+BRN00555,Theni District Motors,Branch,MDL0023,555,Theni,Tamil Nadu,625531.0,theni@industrialfleet.in,8279888547,Active,2006-11-29
+BRN00556,Tirunelveli District Motors,Branch,MDL0023,556,Tirunelveli,Tamil Nadu,627001.0,tirunelveli@industrialfleet.in,8966969588,Inactive,2022-06-28
+BRN00557,Thanjavur District Motors,Branch,MDL0023,557,Thanjavur,Tamil Nadu,613001.0,thanjavur@industrialfleet.in,8681958116,Active,2014-10-03
+BRN00558,Thoothukudi District Motors,Branch,MDL0023,558,Thoothukudi,Tamil Nadu,628001.0,thoothukudi@dealerhub.in,8468293471,Inactive,2010-12-14
+BRN00559,Tirupattur District Motors,Branch,MDL0023,559,Tirupattur,Tamil Nadu,635601.0,tirupattur@dealerhub.in,8862505126,Active,2020-02-03
+BRN00560,Tiruvallur District Motors,Branch,MDL0023,560,Tiruvallur,Tamil Nadu,602001.0,tiruvallur@industrialfleet.in,8689308226,Active,2007-12-28
+BRN00561,Tiruvarur District Motors,Branch,MDL0023,561,Thiruvarur,Tamil Nadu,614101.0,tiruvarur@dealerhub.in,8191903137,Inactive,2021-08-01
+BRN00562,Tiruvannamalai District Motors,Branch,MDL0023,562,Tiruvannaamalai,Tamil Nadu,606601.0,tiruvannamalai@industrialfleet.in,8580340903,Inactive,2022-11-08
+BRN00563,Vellore District Motors,Branch,MDL0023,563,Vellore,Tamil Nadu,632001.0,vellore@industrialfleet.in,8637475896,Active,2006-01-13
+BRN00564,Viluppuram District Motors,Branch,MDL0023,564,Viluppuram,Tamil Nadu,605602.0,viluppuram@dealerhub.in,8281117874,Active,2011-03-29
+BRN00565,Virudhunagar District Motors,Branch,MDL0023,565,Virudhunagar,Tamil Nadu,626001.0,virudhunagar@dealerhub.in,8461932773,Active,2018-06-07
+BRN00566,Adilabad District Motors,Branch,MDL0024,566,Adilabad,Telangana,504001.0,adilabad@oemmotors.in,8634664063,Active,2012-07-28
+BRN00567,Bhadradri Kothagudem District Motors,Branch,MDL0024,567,Kothagudem,Telangana,507101.0,bhadradrikothagudem@dealerhub.in,8947547827,Inactive,2020-06-14
+BRN00568,Hanamkonda District Motors,Branch,MDL0024,568,Hanamkonda,Telangana,506001.0,hanamkonda@industrialfleet.in,8733457039,Active,2020-08-04
+BRN00569,Hyderabad District Motors,Branch,MDL0024,569,Hyderabad,Telangana,500001.0,hyderabad@oemmotors.in,8958447585,Active,2017-01-24
+BRN00570,Jagtial District Motors,Branch,MDL0024,570,Jagtial,Telangana,505327.0,jagtial@industrialfleet.in,8653832687,Inactive,2016-09-09
+BRN00571,Jangaon District Motors,Branch,MDL0024,571,Jangaon,Telangana,506167.0,jangaon@industrialfleet.in,8281597535,Active,2023-10-04
+BRN00572,Jayashankar Bhupalpally District Motors,Branch,MDL0024,572,Bhupalpally,Telangana,506169.0,jayashankarbhupalpally@oemmotors.in,8713112897,Active,2011-12-30
+BRN00573,Jogulamba Gadwal District Motors,Branch,MDL0024,573,Gadwal,Telangana,509125.0,jogulambagadwal@industrialfleet.in,8205013111,Inactive,2012-04-05
+BRN00574,Kamareddy District Motors,Branch,MDL0024,574,Kamareddy,Telangana,503111.0,kamareddy@oemmotors.in,8832181396,Active,2012-06-20
+BRN00575,Karimnagar District Motors,Branch,MDL0024,575,Karimnagar,Telangana,505001.0,karimnagar@oemmotors.in,8536493755,Inactive,2018-02-26
+BRN00576,Khammam District Motors,Branch,MDL0024,576,Khammam,Telangana,507001.0,khammam@oemmotors.in,8390640048,Active,2011-02-07
+BRN00577,Kumuram Bheem Asifabad District Motors,Branch,MDL0024,577,Asifabad,Telangana,504293.0,kumurambheemasifabad@industrialfleet.in,8869375853,Active,2022-01-06
+BRN00578,Mahabubabad District Motors,Branch,MDL0024,578,Mahabubabad,Telangana,506101.0,mahabubabad@oemmotors.in,8224924988,Active,2017-06-18
+BRN00579,Mahbubnagar District Motors,Branch,MDL0024,579,Mahbubnagar,Telangana,509001.0,mahbubnagar@industrialfleet.in,8252999241,Active,2011-11-08
+BRN00580,Mancherial District Motors,Branch,MDL0024,580,Mancherial,Telangana,504208.0,mancherial@dealerhub.in,8118335900,Active,2015-06-29
+BRN00581,Medak District Motors,Branch,MDL0024,581,Medak,Telangana,502110.0,medak@industrialfleet.in,8937965101,Active,2018-11-19
+BRN00582,Medchal–Malkajgiri District Motors,Branch,MDL0024,582,Shamirpet,Telangana,500078.0,medchal–malkajgiri@dealerhub.in,8783799436,Active,2022-02-24
+BRN00583,Mulugu District Motors,Branch,MDL0024,583,Mulugu,Telangana,506342.0,mulugu@oemmotors.in,8665464602,Active,2016-10-28
+BRN00584,Nalgonda District Motors,Branch,MDL0024,584,Nalgonda,Telangana,508001.0,nalgonda@oemmotors.in,8335916202,Active,2007-03-20
+BRN00585,Narayanpet District Motors,Branch,MDL0024,585,Narayanpet,Telangana,509210.0,narayanpet@dealerhub.in,8644232952,Active,2009-01-17
+BRN00586,Nagarkurnool District Motors,Branch,MDL0024,586,Nagarkurnool,Telangana,509209.0,nagarkurnool@industrialfleet.in,8428279295,Inactive,2014-03-17
+BRN00587,Nirmal District Motors,Branch,MDL0024,587,Nirmal,Telangana,504106.0,nirmal@dealerhub.in,8363773308,Active,2020-12-21
+BRN00588,Nizamabad District Motors,Branch,MDL0024,588,Nizamabad,Telangana,503001.0,nizamabad@industrialfleet.in,8228401939,Inactive,2010-01-03
+BRN00589,Peddapalli District Motors,Branch,MDL0024,589,Peddapalli,Telangana,505172.0,peddapalli@industrialfleet.in,8322835502,Inactive,2017-11-09
+BRN00590,Rajanna Sircilla District Motors,Branch,MDL0024,590,Sircilla,Telangana,505301.0,rajannasircilla@oemmotors.in,8293588111,Active,2016-08-23
+BRN00591,Ranga Reddy District Motors,Branch,MDL0024,591,Hyderabad,Telangana,500001.0,rangareddy@dealerhub.in,8486948744,Active,2016-04-22
+BRN00592,Sangareddy District Motors,Branch,MDL0024,592,Sangareddy,Telangana,502001.0,sangareddy@industrialfleet.in,8368091447,Active,2022-01-29
+BRN00593,Siddipet District Motors,Branch,MDL0024,593,Siddipet,Telangana,502103.0,siddipet@industrialfleet.in,8573951122,Active,2005-07-03
+BRN00594,Suryapet District Motors,Branch,MDL0024,594,Suryapet,Telangana,508213.0,suryapet@oemmotors.in,8521788320,Active,2006-05-13
+BRN00595,Vikarabad District Motors,Branch,MDL0024,595,Vikarabad,Telangana,501101.0,vikarabad@industrialfleet.in,8124145607,Active,2018-10-07
+BRN00596,Wanaparthy District Motors,Branch,MDL0024,596,Wanaparthy,Telangana,509103.0,wanaparthy@dealerhub.in,8964577502,Inactive,2018-05-24
+BRN00597,Warangal District Motors,Branch,MDL0024,597,Warangal,Telangana,506001.0,warangal@oemmotors.in,8342308958,Active,2019-04-24
+BRN00598,Yadadri Bhuvanagiri District Motors,Branch,MDL0024,598,Bhongir,Telangana,508116.0,yadadribhuvanagiri@oemmotors.in,8389109631,Active,2010-03-05
+BRN00599,Dhalai District Motors,Branch,MDL0025,599,Ambassa,Tripura,nan,dhalai@oemmotors.in,8453013084,Active,2008-01-12
+BRN00600,Gomati District Motors,Branch,MDL0025,600,Udaipur,Tripura,313001.0,gomati@oemmotors.in,8219562502,Inactive,2023-08-14
+BRN00601,Khowai District Motors,Branch,MDL0025,601,Khowai,Tripura,nan,khowai@dealerhub.in,8524243464,Active,2014-01-13
+BRN00602,North Tripura District Motors,Branch,MDL0025,602,Dharmanagar,Tripura,nan,northtripura@industrialfleet.in,8922610707,Active,2022-03-13
+BRN00603,Sepahijala District Motors,Branch,MDL0025,603,Bishramganj,Tripura,nan,sepahijala@industrialfleet.in,8586994648,Active,2021-09-17
+BRN00604,South Tripura District Motors,Branch,MDL0025,604,Belonia,Tripura,nan,southtripura@dealerhub.in,8395713188,Active,2019-07-18
+BRN00605,Unakoti District Motors,Branch,MDL0025,605,Kailashahar,Tripura,nan,unakoti@oemmotors.in,8192745854,Active,2012-12-03
+BRN00606,West Tripura District Motors,Branch,MDL0025,606,Agartala,Tripura,799001.0,westtripura@industrialfleet.in,8919044971,Active,2012-02-04
+BRN00607,Agra District Motors,Branch,MDL0026,607,Agra,Uttar Pradesh,282001.0,agra@industrialfleet.in,8108847769,Active,2007-05-02
+BRN00608,Aligarh District Motors,Branch,MDL0026,608,Aligarh,Uttar Pradesh,202001.0,aligarh@oemmotors.in,8394133132,Active,2006-08-06
+BRN00609,Ambedkar Nagar District Motors,Branch,MDL0026,609,Akbarpur,Uttar Pradesh,224122.0,ambedkarnagar@oemmotors.in,8413196018,Active,2009-09-26
+BRN00610,Amethi District Motors,Branch,MDL0026,610,Gauriganj,Uttar Pradesh,227405.0,amethi@industrialfleet.in,8683549643,Active,2017-02-11
+BRN00611,Amroha District Motors,Branch,MDL0026,611,Amroha,Uttar Pradesh,244221.0,amroha@industrialfleet.in,8149684522,Active,2010-02-14
+BRN00612,Auraiya District Motors,Branch,MDL0026,612,Auraiya,Uttar Pradesh,206122.0,auraiya@oemmotors.in,8903333440,Active,2011-02-11
+BRN00613,Ayodhya District Motors,Branch,MDL0026,613,Ayodhya,Uttar Pradesh,224001.0,ayodhya@dealerhub.in,8303734719,Inactive,2012-02-13
+BRN00614,Azamgarh District Motors,Branch,MDL0026,614,Azamgarh,Uttar Pradesh,276001.0,azamgarh@dealerhub.in,8812477462,Active,2011-03-10
+BRN00615,Bagpat District Motors,Branch,MDL0026,615,Baghpat,Uttar Pradesh,250609.0,bagpat@oemmotors.in,8402736070,Active,2021-11-08
+BRN00616,Bahraich District Motors,Branch,MDL0026,616,Bahraich,Uttar Pradesh,271801.0,bahraich@industrialfleet.in,8491911632,Active,2023-10-13
+BRN00617,Ballia District Motors,Branch,MDL0026,617,Ballia,Uttar Pradesh,277001.0,ballia@oemmotors.in,8846880511,Active,2016-11-24
+BRN00618,Balrampur District Motors,Branch,MDL0026,618,Balrampur,Uttar Pradesh,271201.0,balrampur@dealerhub.in,8402782832,Inactive,2014-03-29
+BRN00619,Banda District Motors,Branch,MDL0026,619,Banda,Uttar Pradesh,210001.0,banda@dealerhub.in,8583217023,Active,2006-08-24
+BRN00620,Barabanki District Motors,Branch,MDL0026,620,Barabanki,Uttar Pradesh,225001.0,barabanki@oemmotors.in,8385241455,Inactive,2020-01-04
+BRN00621,Bareilly District Motors,Branch,MDL0026,621,Bareilly,Uttar Pradesh,243001.0,bareilly@oemmotors.in,8725496919,Active,2013-09-06
+BRN00622,Basti District Motors,Branch,MDL0026,622,Basti,Uttar Pradesh,272001.0,basti@oemmotors.in,8704954900,Active,2010-11-05
+BRN00623,Bhadohi District Motors,Branch,MDL0026,623,Gyanpur,Uttar Pradesh,221304.0,bhadohi@industrialfleet.in,8952471062,Inactive,2023-02-24
+BRN00624,Bijnor District Motors,Branch,MDL0026,624,Bijnor,Uttar Pradesh,246701.0,bijnor@industrialfleet.in,8561227541,Active,2008-02-11
+BRN00625,Budaun District Motors,Branch,MDL0026,625,Budaun,Uttar Pradesh,243601.0,budaun@dealerhub.in,8672904700,Active,2017-10-21
+BRN00626,Bulandshahr District Motors,Branch,MDL0026,626,Bulandshahr,Uttar Pradesh,203001.0,bulandshahr@industrialfleet.in,8334512131,Active,2014-04-11
+BRN00627,Chandauli District Motors,Branch,MDL0026,627,Chandauli,Uttar Pradesh,232104.0,chandauli@oemmotors.in,8794535410,Active,2007-08-03
+BRN00628,Chitrakoot District Motors,Branch,MDL0026,628,Karwi,Uttar Pradesh,210205.0,chitrakoot@dealerhub.in,8791264847,Active,2023-07-26
+BRN00629,Deoria District Motors,Branch,MDL0026,629,Deoria,Uttar Pradesh,274001.0,deoria@oemmotors.in,8270140815,Active,2012-07-21
+BRN00630,Etah District Motors,Branch,MDL0026,630,Etah,Uttar Pradesh,207001.0,etah@oemmotors.in,8365156617,Active,2011-02-26
+BRN00631,Etawah District Motors,Branch,MDL0026,631,Etawah,Uttar Pradesh,206001.0,etawah@industrialfleet.in,8166052433,Active,2021-05-03
+BRN00632,Farrukhabad District Motors,Branch,MDL0026,632,Fatehgarh,Uttar Pradesh,209601.0,farrukhabad@industrialfleet.in,8600264259,Active,2017-12-08
+BRN00633,Fatehpur District Motors,Branch,MDL0026,633,Fatehpur,Uttar Pradesh,212601.0,fatehpur@oemmotors.in,8528793146,Active,2018-02-20
+BRN00634,Firozabad District Motors,Branch,MDL0026,634,Firozabad,Uttar Pradesh,283203.0,firozabad@dealerhub.in,8675897618,Active,2010-11-14
+BRN00635,Gautam Buddha Nagar District Motors,Branch,MDL0026,635,Noida,Uttar Pradesh,201301.0,gautambuddhanagar@oemmotors.in,8198979201,Active,2020-07-14
+BRN00636,Ghaziabad District Motors,Branch,MDL0026,636,Ghaziabad,Uttar Pradesh,201001.0,ghaziabad@oemmotors.in,8307770275,Active,2014-04-27
+BRN00637,Ghazipur District Motors,Branch,MDL0026,637,Ghazipur,Uttar Pradesh,233001.0,ghazipur@industrialfleet.in,8122532630,Inactive,2017-08-05
+BRN00638,Gonda District Motors,Branch,MDL0026,638,Gonda,Uttar Pradesh,271001.0,gonda@industrialfleet.in,8719759517,Inactive,2006-08-02
+BRN00639,Gorakhpur District Motors,Branch,MDL0026,639,Gorakhpur,Uttar Pradesh,273001.0,gorakhpur@industrialfleet.in,8268829766,Active,2006-09-08
+BRN00640,Hamirpur District Motors,Branch,MDL0026,640,Hamirpur,Uttar Pradesh,nan,hamirpur@dealerhub.in,8369465139,Inactive,2007-05-23
+BRN00641,Hapur District Motors,Branch,MDL0026,641,Hapur,Uttar Pradesh,245101.0,hapur@industrialfleet.in,8575853579,Active,2010-08-30
+BRN00642,Hardoi District Motors,Branch,MDL0026,642,Hardoi,Uttar Pradesh,241001.0,hardoi@dealerhub.in,8208260871,Inactive,2005-08-05
+BRN00643,Hathras District Motors,Branch,MDL0026,643,Hathras,Uttar Pradesh,204101.0,hathras@dealerhub.in,8883898869,Inactive,2023-12-20
+BRN00644,Jalaun District Motors,Branch,MDL0026,644,Orai,Uttar Pradesh,285001.0,jalaun@oemmotors.in,8977929916,Active,2010-09-17
+BRN00645,Jaunpur District Motors,Branch,MDL0026,645,Jaunpur,Uttar Pradesh,222001.0,jaunpur@dealerhub.in,8976289802,Active,2006-09-17
+BRN00646,Jhansi District Motors,Branch,MDL0026,646,Jhansi,Uttar Pradesh,284001.0,jhansi@dealerhub.in,8149507511,Inactive,2018-01-02
+BRN00647,Kannauj District Motors,Branch,MDL0026,647,Kannauj,Uttar Pradesh,209726.0,kannauj@industrialfleet.in,8124167767,Active,2020-07-27
+BRN00648,Kanpur Dehat District Motors,Branch,MDL0026,648,Akbarpur,Uttar Pradesh,224122.0,kanpurdehat@industrialfleet.in,8548592000,Active,2020-12-02
+BRN00649,Kanpur Nagar District Motors,Branch,MDL0026,649,Kanpur,Uttar Pradesh,208001.0,kanpurnagar@oemmotors.in,8354123173,Active,2021-11-14
+BRN00650,Kasganj District Motors,Branch,MDL0026,650,Kasganj,Uttar Pradesh,207123.0,kasganj@oemmotors.in,8188255690,Active,2014-07-27
+BRN00651,Kaushambi District Motors,Branch,MDL0026,651,Manjhanpur,Uttar Pradesh,212213.0,kaushambi@industrialfleet.in,8265383981,Inactive,2016-08-20
+BRN00652,Kushinagar District Motors,Branch,MDL0026,652,Padrauna,Uttar Pradesh,274304.0,kushinagar@oemmotors.in,8564057874,Active,2008-11-03
+BRN00653,Lakhimpur Kheri District Motors,Branch,MDL0026,653,Lakhimpur,Uttar Pradesh,262701.0,lakhimpurkheri@industrialfleet.in,8663616483,Active,2007-03-19
+BRN00654,Lalitpur District Motors,Branch,MDL0026,654,Lalitpur,Uttar Pradesh,284403.0,lalitpur@oemmotors.in,8704184785,Active,2009-03-20
+BRN00655,Lucknow District Motors,Branch,MDL0026,655,Lucknow,Uttar Pradesh,226001.0,lucknow@oemmotors.in,8897427656,Inactive,2023-11-17
+BRN00656,Maharajganj District Motors,Branch,MDL0026,656,Maharajganj,Uttar Pradesh,273303.0,maharajganj@industrialfleet.in,8282520539,Active,2017-06-01
+BRN00657,Mahoba District Motors,Branch,MDL0026,657,Mahoba,Uttar Pradesh,nan,mahoba@industrialfleet.in,8298662368,Active,2013-08-21
+BRN00658,Mainpuri District Motors,Branch,MDL0026,658,Mainpuri,Uttar Pradesh,205001.0,mainpuri@dealerhub.in,8677902903,Inactive,2019-09-17
+BRN00659,Mathura District Motors,Branch,MDL0026,659,Mathura,Uttar Pradesh,281001.0,mathura@dealerhub.in,8339870915,Active,2023-01-05
+BRN00660,Mau District Motors,Branch,MDL0026,660,Mau,Uttar Pradesh,275101.0,mau@industrialfleet.in,8689398184,Active,2011-07-05
+BRN00661,Meerut District Motors,Branch,MDL0026,661,Meerut,Uttar Pradesh,250001.0,meerut@industrialfleet.in,8648123071,Active,2019-12-11
+BRN00662,Mirzapur District Motors,Branch,MDL0026,662,Mirzapur,Uttar Pradesh,231001.0,mirzapur@industrialfleet.in,8770167917,Inactive,2006-09-12
+BRN00663,Moradabad District Motors,Branch,MDL0026,663,Moradabad,Uttar Pradesh,244001.0,moradabad@industrialfleet.in,8364550422,Active,2020-06-08
+BRN00664,Muzaffarnagar District Motors,Branch,MDL0026,664,Muzaffarnagar,Uttar Pradesh,251001.0,muzaffarnagar@oemmotors.in,8883433234,Inactive,2016-06-28
+BRN00665,Pilibhit District Motors,Branch,MDL0026,665,Pilibhit,Uttar Pradesh,262001.0,pilibhit@oemmotors.in,8675085942,Active,2017-05-25
+BRN00666,Pratapgarh District Motors,Branch,MDL0026,666,Pratapgarh,Uttar Pradesh,312605.0,pratapgarh@industrialfleet.in,8503531671,Active,2015-05-15
+BRN00667,Prayagraj District Motors,Branch,MDL0026,667,Prayagraj,Uttar Pradesh,211001.0,prayagraj@oemmotors.in,8209143610,Active,2005-09-21
+BRN00668,Raebareli District Motors,Branch,MDL0026,668,Raebareli,Uttar Pradesh,229001.0,raebareli@dealerhub.in,8632546838,Active,2013-10-03
+BRN00669,Rampur District Motors,Branch,MDL0026,669,Rampur,Uttar Pradesh,244901.0,rampur@oemmotors.in,8266450669,Active,2007-04-10
+BRN00670,Saharanpur District Motors,Branch,MDL0026,670,Saharanpur,Uttar Pradesh,247001.0,saharanpur@oemmotors.in,8348648985,Inactive,2008-01-27
+BRN00671,Sambhal District Motors,Branch,MDL0026,671,Sambhal,Uttar Pradesh,244302.0,sambhal@oemmotors.in,8912683085,Active,2022-02-25
+BRN00672,Sant Kabir Nagar District Motors,Branch,MDL0026,672,Khalilabad,Uttar Pradesh,272175.0,santkabirnagar@oemmotors.in,8927818366,Active,2011-01-15
+BRN00673,Shahjahanpur District Motors,Branch,MDL0026,673,Shahjahanpur,Uttar Pradesh,242001.0,shahjahanpur@oemmotors.in,8865100683,Inactive,2014-04-17
+BRN00674,Shamli District Motors,Branch,MDL0026,674,Shamli,Uttar Pradesh,247776.0,shamli@dealerhub.in,8777422697,Active,2008-05-25
+BRN00675,Shravasti District Motors,Branch,MDL0026,675,Shravasti,Uttar Pradesh,271831.0,shravasti@dealerhub.in,8928837003,Inactive,2010-02-03
+BRN00676,Siddharthnagar District Motors,Branch,MDL0026,676,Naugarh,Uttar Pradesh,272207.0,siddharthnagar@oemmotors.in,8335393485,Inactive,2008-12-11
+BRN00677,Sitapur District Motors,Branch,MDL0026,677,Sitapur,Uttar Pradesh,261001.0,sitapur@dealerhub.in,8518602128,Active,2019-06-01
+BRN00678,Sonbhadra District Motors,Branch,MDL0026,678,Robertsganj,Uttar Pradesh,231216.0,sonbhadra@dealerhub.in,8313939670,Active,2010-07-05
+BRN00679,Sultanpur District Motors,Branch,MDL0026,679,Sultanpur,Uttar Pradesh,228001.0,sultanpur@oemmotors.in,8885964111,Inactive,2023-02-01
+BRN00680,Unnao District Motors,Branch,MDL0026,680,Unnao,Uttar Pradesh,209801.0,unnao@industrialfleet.in,8683092975,Active,2021-01-13
+BRN00681,Varanasi District Motors,Branch,MDL0026,681,Varanasi,Uttar Pradesh,221001.0,varanasi@oemmotors.in,8112363767,Active,2010-05-01
+BRN00682,Almora District Motors,Branch,MDL0027,682,Almora,Uttarakhand,263601.0,almora@industrialfleet.in,8773943501,Active,2020-11-21
+BRN00683,Bageshwar District Motors,Branch,MDL0027,683,Bageshwar,Uttarakhand,263642.0,bageshwar@dealerhub.in,8824814863,Active,2015-05-18
+BRN00684,Chamoli District Motors,Branch,MDL0027,684,Gopeshwar,Uttarakhand,246401.0,chamoli@industrialfleet.in,8353743503,Inactive,2012-08-06
+BRN00685,Champawat District Motors,Branch,MDL0027,685,Champawat,Uttarakhand,262523.0,champawat@industrialfleet.in,8241718951,Inactive,2017-07-07
+BRN00686,Dehradun District Motors,Branch,MDL0027,686,Dehradun,Uttarakhand,248001.0,dehradun@industrialfleet.in,8677473294,Inactive,2005-04-26
+BRN00687,Haridwar District Motors,Branch,MDL0027,687,Haridwar,Uttarakhand,249401.0,haridwar@dealerhub.in,8598541602,Active,2013-08-11
+BRN00688,Nainital District Motors,Branch,MDL0027,688,Nainital,Uttarakhand,263001.0,nainital@oemmotors.in,8119547432,Active,2012-07-26
+BRN00689,Pauri Garhwal District Motors,Branch,MDL0027,689,Pauri,Uttarakhand,246001.0,paurigarhwal@oemmotors.in,8535114384,Active,2008-05-14
+BRN00690,Pithoragarh District Motors,Branch,MDL0027,690,Pithoragarh,Uttarakhand,262501.0,pithoragarh@oemmotors.in,8135442959,Active,2014-11-30
+BRN00691,Rudraprayag District Motors,Branch,MDL0027,691,Rudraprayag,Uttarakhand,246171.0,rudraprayag@oemmotors.in,8957029561,Active,2022-02-15
+BRN00692,Tehri Garhwal District Motors,Branch,MDL0027,692,New Tehri,Uttarakhand,249001.0,tehrigarhwal@dealerhub.in,8387025457,Inactive,2019-01-14
+BRN00693,Udham Singh Nagar District Motors,Branch,MDL0027,693,Rudrapur,Uttarakhand,263153.0,udhamsinghnagar@oemmotors.in,8458683146,Active,2012-04-09
+BRN00694,Uttarkashi District Motors,Branch,MDL0027,694,Uttarkashi,Uttarakhand,249193.0,uttarkashi@dealerhub.in,8660835241,Active,2007-05-20
+BRN00695,Alipurduar District Motors,Branch,MDL0028,695,Alipurduar,West Bengal,736121.0,alipurduar@dealerhub.in,8253240017,Inactive,2012-03-08
+BRN00696,Bankura District Motors,Branch,MDL0028,696,Bankura,West Bengal,722101.0,bankura@industrialfleet.in,8461988396,Inactive,2011-11-19
+BRN00697,Birbhum District Motors,Branch,MDL0028,697,Suri,West Bengal,731101.0,birbhum@oemmotors.in,8251670063,Inactive,2005-06-14
+BRN00698,Cooch Behar District Motors,Branch,MDL0028,698,Cooch Behar,West Bengal,736101.0,coochbehar@dealerhub.in,8335930671,Active,2021-06-09
+BRN00699,Dakshin Dinajpur District Motors,Branch,MDL0028,699,Balurghat,West Bengal,733101.0,dakshindinajpur@oemmotors.in,8453136958,Inactive,2017-10-18
+BRN00700,Darjeeling District Motors,Branch,MDL0028,700,Darjeeling,West Bengal,734101.0,darjeeling@industrialfleet.in,8401573071,Active,2020-05-08
+BRN00701,Hooghly District Motors,Branch,MDL0028,701,Chinsurah,West Bengal,712101.0,hooghly@oemmotors.in,8195121151,Active,2007-10-08
+BRN00702,Howrah District Motors,Branch,MDL0028,702,Howrah,West Bengal,711101.0,howrah@industrialfleet.in,8801252990,Active,2020-09-16
+BRN00703,Jalpaiguri District Motors,Branch,MDL0028,703,Jalpaiguri,West Bengal,735101.0,jalpaiguri@oemmotors.in,8329078760,Active,2012-08-03
+BRN00704,Jhargram District Motors,Branch,MDL0028,704,Jhargram,West Bengal,721507.0,jhargram@oemmotors.in,8678973684,Active,2011-10-11
+BRN00705,Kalimpong District Motors,Branch,MDL0028,705,Kalimpong,West Bengal,734301.0,kalimpong@industrialfleet.in,8712508263,Inactive,2021-06-23
+BRN00706,Kolkata District Motors,Branch,MDL0028,706,Kolkata,West Bengal,700001.0,kolkata@dealerhub.in,8837532029,Active,2005-12-03
+BRN00707,Maldah District Motors,Branch,MDL0028,707,English Bazar,West Bengal,nan,maldah@oemmotors.in,8955275834,Active,2006-06-24
+BRN00708,Murshidabad District Motors,Branch,MDL0028,708,Baharampur,West Bengal,742101.0,murshidabad@oemmotors.in,8670965449,Active,2009-07-30
+BRN00709,Nadia District Motors,Branch,MDL0028,709,Krishnanagar,West Bengal,741101.0,nadia@dealerhub.in,8928024646,Active,2019-12-01
+BRN00710,North 24 Parganas District Motors,Branch,MDL0028,710,Barasat,West Bengal,700124.0,north24parganas@dealerhub.in,8665223050,Active,2019-10-28
+BRN00711,Paschim Bardhaman District Motors,Branch,MDL0028,711,Asansol,West Bengal,713301.0,paschimbardhaman@oemmotors.in,8864295892,Active,2011-12-05
+BRN00712,Paschim Medinipur District Motors,Branch,MDL0028,712,Midnapore,West Bengal,721101.0,paschimmedinipur@industrialfleet.in,8400466426,Active,2007-11-20
+BRN00713,Purba Bardhaman District Motors,Branch,MDL0028,713,Bardhaman,West Bengal,713101.0,purbabardhaman@industrialfleet.in,8303020879,Active,2007-07-17
+BRN00714,Purba Medinipur District Motors,Branch,MDL0028,714,Tamluk,West Bengal,721636.0,purbamedinipur@industrialfleet.in,8836205880,Active,2022-02-07
+BRN00715,Purulia District Motors,Branch,MDL0028,715,Purulia,West Bengal,723101.0,purulia@industrialfleet.in,8391662734,Active,2009-06-26
+BRN00716,South 24 Parganas District Motors,Branch,MDL0028,716,Alipore,West Bengal,700027.0,south24parganas@dealerhub.in,8233625106,Active,2009-09-26
+BRN00717,Uttar Dinajpur District Motors,Branch,MDL0028,717,Raiganj,West Bengal,733134.0,uttardinajpur@industrialfleet.in,8365872509,Active,2023-02-01
+BRN00718,Nicobar District Motors,Branch,MDL0029,718,Car Nicobar,Andaman and Nicobar,nan,nicobar@dealerhub.in,8933594116,Active,2008-01-23
+BRN00719,North and Middle Andaman District Motors,Branch,MDL0029,719,Mayabunder,Andaman and Nicobar,nan,northandmiddleandaman@industrialfleet.in,8178920479,Inactive,2006-11-07
+BRN00720,South Andaman District Motors,Branch,MDL0029,720,Port Blair,Andaman and Nicobar,744101.0,southandaman@dealerhub.in,8600148079,Active,2008-03-11
+BRN00721,Chandigarh District Motors,Branch,MDL0030,721,Chandigarh,Chandigarh,160001.0,chandigarh@oemmotors.in,8470556307,Active,2011-08-13
+BRN00722,Daman District Motors,Branch,MDL0031,722,Daman,Dadra and Nagar Haveli and Daman and Diu,396210.0,daman@oemmotors.in,8972568807,Inactive,2020-07-26
+BRN00723,Diu District Motors,Branch,MDL0031,723,Diu,Dadra and Nagar Haveli and Daman and Diu,362520.0,diu@industrialfleet.in,8399314989,Active,2016-03-21
+BRN00724,Dadra and Nagar Haveli District Motors,Branch,MDL0031,724,Silvassa,Dadra and Nagar Haveli and Daman and Diu,396230.0,dadraandnagarhaveli@industrialfleet.in,8147033417,Active,2012-09-10
+BRN00725,Anantnag District Motors,Branch,MDL0032,725,Anantnag,Jammu and Kashmir,192101.0,anantnag@dealerhub.in,8512316502,Active,2020-12-01
+BRN00726,Budgam District Motors,Branch,MDL0032,726,Budgam,Jammu and Kashmir,191111.0,budgam@industrialfleet.in,8950492196,Active,2008-03-16
+BRN00727,Bandipore District Motors,Branch,MDL0032,727,Bandipore,Jammu and Kashmir,193502.0,bandipore@oemmotors.in,8909522646,Active,2015-07-13
+BRN00728,Baramulla District Motors,Branch,MDL0032,728,Baramulla,Jammu and Kashmir,193101.0,baramulla@industrialfleet.in,8809311814,Active,2013-09-17
+BRN00729,Doda District Motors,Branch,MDL0032,729,Doda,Jammu and Kashmir,182202.0,doda@dealerhub.in,8962507989,Active,2018-10-01
+BRN00730,Ganderbal District Motors,Branch,MDL0032,730,Ganderbal,Jammu and Kashmir,191201.0,ganderbal@oemmotors.in,8549451767,Inactive,2009-02-11
+BRN00731,Jammu District Motors,Branch,MDL0032,731,Jammu,Jammu and Kashmir,180001.0,jammu@oemmotors.in,8255233901,Active,2016-02-04
+BRN00732,Kathua District Motors,Branch,MDL0032,732,Kathua,Jammu and Kashmir,184141.0,kathua@dealerhub.in,8660086852,Inactive,2019-09-08
+BRN00733,Kishtwar District Motors,Branch,MDL0032,733,Kishtwar,Jammu and Kashmir,182204.0,kishtwar@dealerhub.in,8500494069,Active,2014-11-10
+BRN00734,Kulgam District Motors,Branch,MDL0032,734,Kulgam,Jammu and Kashmir,192231.0,kulgam@dealerhub.in,8710779475,Active,2019-05-02
+BRN00735,Kupwara District Motors,Branch,MDL0032,735,Kupwara,Jammu and Kashmir,193222.0,kupwara@oemmotors.in,8528693951,Active,2008-08-12
+BRN00736,Poonch District Motors,Branch,MDL0032,736,Poonch,Jammu and Kashmir,185101.0,poonch@oemmotors.in,8802789002,Active,2012-09-04
+BRN00737,Pulwama District Motors,Branch,MDL0032,737,Pulwama,Jammu and Kashmir,192301.0,pulwama@oemmotors.in,8103255813,Active,2017-09-21
+BRN00738,Rajouri District Motors,Branch,MDL0032,738,Rajouri,Jammu and Kashmir,185131.0,rajouri@oemmotors.in,8224768185,Active,2018-08-15
+BRN00739,Ramban District Motors,Branch,MDL0032,739,Ramban,Jammu and Kashmir,182144.0,ramban@industrialfleet.in,8912793355,Active,2013-05-10
+BRN00740,Reasi District Motors,Branch,MDL0032,740,Reasi,Jammu and Kashmir,182311.0,reasi@dealerhub.in,8783502967,Active,2023-10-05
+BRN00741,Samba District Motors,Branch,MDL0032,741,Samba,Jammu and Kashmir,184121.0,samba@dealerhub.in,8191578249,Active,2016-02-27
+BRN00742,Shopian District Motors,Branch,MDL0032,742,Shopian,Jammu and Kashmir,192303.0,shopian@dealerhub.in,8455821001,Inactive,2007-12-17
+BRN00743,Srinagar District Motors,Branch,MDL0032,743,Srinagar,Jammu and Kashmir,190001.0,srinagar@oemmotors.in,8938692365,Active,2020-05-22
+BRN00744,Udhampur District Motors,Branch,MDL0032,744,Udhampur,Jammu and Kashmir,182101.0,udhampur@oemmotors.in,8609876060,Active,2023-07-23
+BRN00745,Kargil District Motors,Branch,MDL0033,745,Kargil,Ladakh,194103.0,kargil@oemmotors.in,8509722376,Active,2013-08-20
+BRN00746,Leh District Motors,Branch,MDL0033,746,Leh,Ladakh,194101.0,leh@dealerhub.in,8996486890,Active,2016-05-24
+BRN00747,Lakshadweep District Motors,Branch,MDL0034,747,Kavaratti,Lakshadweep,682555.0,lakshadweep@oemmotors.in,8741134053,Active,2006-04-08
+BRN00748,Central Delhi District Motors,Branch,MDL0035,748,Daryaganj,National Capital Territory of Delhi,110002.0,centraldelhi@dealerhub.in,8608847154,Inactive,2017-05-27
+BRN00749,East Delhi District Motors,Branch,MDL0035,749,Preet Vihar,National Capital Territory of Delhi,110092.0,eastdelhi@industrialfleet.in,8246275951,Active,2014-03-04
+BRN00750,New Delhi District Motors,Branch,MDL0035,750,Connaught Place,National Capital Territory of Delhi,110001.0,newdelhi@industrialfleet.in,8487817520,Active,2022-02-09
+BRN00751,North Delhi District Motors,Branch,MDL0035,751,Sadar Bazaar,National Capital Territory of Delhi,110006.0,northdelhi@industrialfleet.in,8990335204,Active,2020-11-30
+BRN00752,North East Delhi District Motors,Branch,MDL0035,752,Seelampur,National Capital Territory of Delhi,110053.0,northeastdelhi@dealerhub.in,8848341599,Active,2005-03-26
+BRN00753,North West Delhi District Motors,Branch,MDL0035,753,Kanjhawala,National Capital Territory of Delhi,110081.0,northwestdelhi@industrialfleet.in,8329557725,Inactive,2005-06-04
+BRN00754,Shahdara district District Motors,Branch,MDL0035,754,Nand Nagri,National Capital Territory of Delhi,110093.0,shahdaradistrict@dealerhub.in,8927448019,Active,2013-03-22
+BRN00755,South Delhi District Motors,Branch,MDL0035,755,Saket,National Capital Territory of Delhi,110017.0,southdelhi@industrialfleet.in,8744246797,Active,2005-11-21
+BRN00756,South East Delhi District Motors,Branch,MDL0035,756,Defence Colony,National Capital Territory of Delhi,110024.0,southeastdelhi@dealerhub.in,8892137993,Inactive,2015-08-19
+BRN00757,South West Delhi District Motors,Branch,MDL0035,757,Vasant Vihar,National Capital Territory of Delhi,110057.0,southwestdelhi@dealerhub.in,8544961462,Active,2008-12-11
+BRN00758,West Delhi District Motors,Branch,MDL0035,758,Rajouri Garden,National Capital Territory of Delhi,110027.0,westdelhi@dealerhub.in,8699250884,Active,2011-07-13
+BRN00759,Karaikal District Motors,Branch,MDL0036,759,Karaikal,Puducherry,609602.0,karaikal@dealerhub.in,8351979703,Active,2007-01-03
+BRN00760,Mahé District Motors,Branch,MDL0036,760,Mahé,Puducherry,nan,mahé@dealerhub.in,8841006612,Active,2008-07-12
+BRN00761,Puducherry District Motors,Branch,MDL0036,761,Pondicherry,Puducherry,605001.0,puducherry@oemmotors.in,8789938680,Active,2021-05-06
+BRN00762,Yanam District Motors,Branch,MDL0036,762,Yanam,Puducherry,533464.0,yanam@industrialfleet.in,8563879172,Active,2023-08-02

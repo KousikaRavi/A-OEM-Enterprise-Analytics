@@ -1,5 +1,5 @@
 # A-OEM Enterprise Analytics Ecosystem
-### Warranty Leakage & Fraud Detection | Data Analyst Portfolio Project
+### Warranty Fraud & Leakage Detection | Data Analytics Portfolio Project
 
 ---
 
@@ -173,15 +173,14 @@ Project_AOEM/
 │   └── dealer_hierarchy.csv    ← Dealer master data
 │
 ├── etl_scripts/
-│   ├── generate_crm_data.py    ← Faker synthetic data generator
-│   ├── etl_geo.py              ← CSV → dim_region/state/district
-│   ├── etl_dealer.py           ← erp_db → dim_dealer
-│   ├── etl_customer.py         ← CRM API → dim_customer
-│   └── etl_vehicle.py          ← CRM API → dim_vehicle
+│   ├── etl_geo.py                ← CSV → dim_region/state/district
+│   ├── etl_dealer.py             ← erp_db → dim_dealer
+│   ├── etl_customer.py           ← CRM API → dim_customer
+│   ├── etl_vehicle.py            ← CRM API → dim_vehicle
+│   └── generate_crm_data.py      ← Synthetic CRM data with quality issues
 │
 ├── crm_api/
-│   ├── __init__.py
-│   └── app.py                  ← FastAPI mock CRM REST API
+│   └── app.py                    ← FastAPI mock CRM API
 │
 ├── simulation/
 │   └── simulate_claims.py      ← Fraud simulation (3,000 claims)
@@ -199,11 +198,10 @@ Project_AOEM/
 ## Setup
 
 ### Prerequisites
-- Python 3.12+
-- PostgreSQL 14+
-- Power BI Desktop
+- Python 3.12+ · PostgreSQL 14+ · Power BI Desktop
 
 ```bash
+# 1. Clone
 # 1. Clone
 git clone https://github.com/KousikaRavi/A-OEM-Enterprise-Analytics.git
 cd A-OEM-Enterprise-Analytics
